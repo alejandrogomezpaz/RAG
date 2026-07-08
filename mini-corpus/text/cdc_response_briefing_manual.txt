@@ -1,0 +1,1829 @@
+JULY 2020
+
+Radiation Response
+Briefing Manual:
+A Guide for Key Leaders and Public Health Decision Makers
+
+i
+
+PubNo 300858
+CS316861-A
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+CONTENTS
+Introduction.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+Scope . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+Target Audience.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 1
+What do I need to know about radiation? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+Types of Radiation.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 2
+Radiation Measurement .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 4
+Radioactive Contamination.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Radiation Exposure .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Radioactive Decay. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+What are the different types of radiation emergencies?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Radiological Incidents.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 7
+Nuclear Incidents .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 8
+What decisions need to be made early in a radiation emergency?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+What are the roles and responsibilities of various agencies? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 11
+What responsibilities fall to public health during a radiation emergency?. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 13
+What is the response timeline? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 14
+Phases of Radiation Emergency Response . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+What assets are available to respond to a radiation emergency?.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+State Assets.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 16
+Federal Assets.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+What planning and guidance documents should I know about? .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+Appendix A: Radiation Measurement and Risk.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Units of Measurement. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+Measuring Emitted Radiation.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+Measuring Radiation Dose. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Determining Biological Risk .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 24
+Abbreviations for Radiation Measurements.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 25
+Common Radiation Exposures. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26
+Determining Cancer Risk. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 26
+Appendix B: Medical Management of Radiation Casualties. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Radioprotective Drugs .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Acute Radiation Syndrome.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 27
+Appendix C: Phases of Radiation Response .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Early Phase Actions.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 29
+Intermediate Phase Actions.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 33
+Late Phase Actions .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 36
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Introduction
+During a radiation emergency, state and local authorities will need to assess the degree of the hazard quickly
+and issue the appropriate protective actions to people in the affected area. This briefing manual is intended to
+serve as a just-in-time training for key decision makers. The goal of this briefing manual is to quickly enhance
+your awareness of the following topics:
+Radiation hazards
+Types of radiation emergencies
+Roles and responsibilities of various response agencies
+Decisions that need to be made to protect the public
+Response phases
+State and Federal radiation response assets
+Important planning and guidance documents
+
+Scope
+This guide provides a just-in-time overview of radiation hazards and response considerations for radiation
+emergencies. It is intended to give you a working knowledge of radiation emergency response, so that you
+can ask the right questions, work effectively with partner agencies, and make informed decisions. This guide
+is not a substitute for coordinating emergency planning and response activities with radiation professionals.
+
+Target Audience
+The intended audience for this document includes public health officials, emergency managers, and elected
+officials involved in planning for and managing the public health response to a radiation emergency.
+
+1
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+What do I need to know about radiation?
+Types of Radiation
+The radiation we are concerned about is ionizing radiation. Ionizing radiation is energy that is given off
+from radioactive materials. This radiation is strong enough to damage cells in the body. At high doses,
+enough cells could be damaged to cause serious illness, or even death.
+Radiation from other sources, such as radios, cell phones, and microwaves, is called non-ionizing radiation. Non-ionizing radiation does not pose the same hazard that ionizing radiation does.
+There are three types of ionizing radiation you need to be aware of:
+Alpha particles
+Beta particles
+Gamma rays
+
+Different radioactive materials give off different types of radiation. We refer to different types of radioactive
+material as “radionuclides.” The following are examples of different radionuclides:
+Polonium-210 is a radionuclide that gives off radiation in the form of alpha particles.
+!!
+We refer to it as an “alpha emitter.”
+!!
+Alpha particles can’t penetrate the skin, so alpha emitters are only a hazard if you internalize
+them by ingesting them, inhaling them, or getting them in a wound.
+
+Alpha particles – no external hazard; won’t penetrate clothing or skin
+
+ Strontium-90 is a radionuclide that gives off radiation in the form of beta particles.
+!!
+We refer to it as a “beta emitter.”
+!!
+Beta particles can damage the skin and can also damage cells from inside the body.
+!!
+Beta emitters are a hazard if they get on your skin or inside your body.
+
+2
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Beta particles - can cause skin burns; won’t penetrate clothing or plastic
+
+ Cesium-137, as it decays, is a radionuclide that leads to the emission of radiation in the form
+of gamma rays.
+!!
+We refer to it as a “gamma emitter.”
+!!
+Gamma rays can travel directly through the body, damaging cells in the skin and other
+organs along the way.
+!!
+
+Gamma rays – external hazard; penetrates skin, clothing, plastic
+
+3
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Atom showing penetration abilities of alpha and beta particles and gamma rays. Alpha particles stopped by sheet of paper; beta particles
+stopped by layer of clothing; gamma rays stopped by inches to feet of concrete like a building
+
+Radiation Measurement
+The two units of measurement for radiation are the International System (SI), commonly used in most of
+the world, and conventional units, commonly used in the United States. Table 1 lists radiation units and
+their conversion factors. Appendix A provides more information on units of radiation measurement.
+
+Table 1: Units of Radiation Measurement
+Measurement
+
+Sl Unit
+
+Conventional Unit
+
+Conversion
+
+Activity
+(How much radiation
+is present in the
+environment?)
+
+Becquerel (Bq)
+
+Curie (Ci)
+
+37 billion Bq = 1 Ci
+
+Absorbed Dose
+(How much radiation is
+interacting with my body?)
+
+Gray (Gy)
+
+rad
+
+1 Gy = 100 rad
+
+Equivalent Dose or
+Effective Dose
+(How much damage
+will it do?)
+
+Sievert (Sv)
+
+rem
+
+1 Sv = 100 rem
+
+4
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Radioactive Contamination
+Radioactive contamination is simply radioactive material that is
+somewhere it is not supposed to be.
+RADIOACTIVE MATERIAL
+
+RADIATION CONTAMINATION
+VERSUS EXPOSURE
+
+There are two types of radioactive contamination that can affect people:
+External Contamination – Radioactive material that gets on your skin, hair, or clothing.
+Internal Contamination – Radioactive material that gets inside your body.
+IN THE AIR
+
+External
+Contamination
+
+SOLID
+
+LIQUID
+
+RADIOACTIVE MATERIAL
+
+Internal Contamination
+IN THE AIR
+
+SOLID
+
+LIQUID
+
+A person with radioactive
+contamination on the outside
+of their body
+
+A person with radioactive contamination
+on the inside of their body
+
+In most cases, removing contaminated clothing and washing exposed skin with mild soap and warm water
+will remove external contamination.
+Internal contamination is harder to remove. We have some medicines – also known as medical
+countermeasures – that help to remove radioactive material from the body. These countermeasures only work
+for specific radionuclides and are most effective when taken at the appropriate time. Appendix B provides
+more information on the medical management of radiation casualties and the use of medical countermeasures.
+If you are contaminated, you have radiation on you or inside you. Depending on how contaminated you are,
+you may pose a threat to people around you. The best course of action is to carefully remove contaminated
+clothing and wash exposed skin with mild soap and warm water.
+
+Radiation Exposure
+Radiation exposure is a measure of the amount of ionizing radiation that
+. interacts with your body. Think of
+a lamp sitting on a table. When you turn on the lamp, the lightbulb emits light throughout the room. You are
+exposed to that light. When you turn off the lamp or leave the room, you are no longer exposed to the light.
+Similarly, if you step behind a corner or place a barrier between you and the lamp, you are no longer exposed
+to the light.
+
+5
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+If we had a Cesium-137 source instead of a lamp, you would be exposed to gamma rays instead of rays of
+light. The amount of radiation you receive from a radiation source is called your radiation dose. The size of your
+radiation dose depends on:
+The strength of the source
+Your proximity to the source
+The amount of time you spend near the source
+
+The best way to limit your radiation dose is to:
+Minimize your time near the source
+Maximize the distance between you and the source
+Place shielding (e.g., a wall, or another barrier) between you and the source
+
+Once you leave the area, you are no longer being exposed to radiation from that source, and you do not take
+any radiation with you. You are not radioactive, and you do not pose a threat to others around you.
+
+TIME
+
+DISTANCE
+
+SHIELDING
+
+Images depicting time, distance and shielding from a radiation source
+
+Radioactive Decay
+As radioactive atoms give off radiation, they lose energy and become more stable. This process is called
+radioactive decay. Each radionuclide decays at a specific rate, known as the half-life. The half-life is the amount
+of time it takes for half of the atoms in that radioactive material to reach a stable state.
+Depending on the radionuclide, this process could be fast or take a very long time – radioactive half-lives can
+range from milliseconds to hours, days, and even millions of years. A good rule of thumb is that, after seven halflives, you will have less than one percent of the original amount of radiation.
+Radionuclides used in nuclear medicine procedures have short half-lives. For example, Technetium-99m, one
+of the most common medical isotopes used for imaging studies, has a half-life of 6 hours. The short half-life of
+Technetium-99m helps keep the dose to the patient low. After 24 hours, the radioactivity from the procedure will
+be reduced by more than 90%.
+On the other hand, uranium is a radionuclide that has an extremely long half-life. Naturally occurring
+Uranium-238 present in the Earth’s crust has a half-life of almost 4.5 billion years. If you take a soil sample
+anywhere in the world, including your backyard, you will find uranium atoms that date back to when the Earth
+was formed.
+If you are responding to a radiation emergency, knowing the half-life of the radionuclides involved will be
+important. This information will help you determine what the short- and long-term risks will be to people in the
+affected area.
+6
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+What are the different types of radiation emergencies?
+There are two broad categories of radiation emergencies:
+Radiological incidents
+Nuclear incidents
+
+Radiological incidents involve the release or dispersal of radioactive material, but they do not involve a nuclear
+detonation. Types of radiological incidents are listed below.
+
+Radiological Incidents
+Radiological Dispersal Device (RDD)					
+An RDD is a device that uses explosive or non-explosive means to spread
+radioactive contamination. A dirty bomb is an example of an explosive RDD. An
+example of a non-explosive RDD is a crop duster used to spread radioactive liquid.
+RDD’s present a contamination and an exposure hazard.
+Radiological Exposure Device (RED)						
+An RED is a device that is placed in a location with the intent of exposing people
+to dangerous levels of gamma radiation. An RED could be placed under a seat in a
+bus or subway car, or it could be placed near a popular gathering spot, such as a
+coffee shop or a park. An RED could be made from a radioactive material, such as
+Cobalt-60, or it could be made from an electronic source of radiation,
+such as an X-ray machine. RED’s present an exposure hazard. When people leave
+the area, they are no longer exposed.
+Nuclear Power Plant Accident
+				
+Accidents at or attacks against a nuclear power plant are radiological incidents, not
+nuclear incidents. This distinction is made because the accident or attack results in
+only the spread of radioactive material, not a nuclear detonation.
+Radioactive material released from a nuclear power plant can contaminate a
+large area, but the resulting radiation levels are usually not high enough to be life
+threatening. However, health officials may advise people to relocate from certain
+areas to prevent long-term health effects.
+Transportation Accidents 							
+When people think of transportation accidents involving radioactive material, they
+often think of nuclear fuel and nuclear waste being transported to and from power
+plants. While it is important to plan for this type of accident, these shipments are
+secured in reinforced containers that can withstand tremendous impact. Therefore,
+a transportation accident involving nuclear material that would result in a significant
+release is unlikely.
+A more likely scenario involves the transport of radiopharmaceuticals.
+Radiopharmaceuticals are radioactive drugs and devices that are used for
+diagnosing and treating certain illnesses. These devices are transported to and
+from medical facilities by couriers using delivery vans, trucks, or cars. A car
+accident involving a radiopharmaceutical courier could result in a small release of
+radioactive material.
+
+7
+
+Illustrations include:
+Image of a dirty
+bomb exploding,
+radioactive exposure
+from radiation source
+under chair, radioactive
+material released from
+a nuclear power plant,
+and transportation of
+radioactive materials
+by trucks or vans.
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Industrial Accidents								
+Examples of industries that use radioactive materials include:
+Food sterilization operations use a radiation source to kill bacteria in food that could
+make people sick or cause the food to spoil faster.
+Medical sterilization operations use radiation to kill bacteria on medical instruments
+
+and supplies.
+Soil density gauges used in construction and road building have a radioactive
+
+Industrial facility
+
+source in them that helps determine the composition of soil.
+Industrial radiography devices have a strong, but small, radioactive source that can
+
+be used to “X-ray” materials to inspect for cracks or other damage that can’t be
+seen with the naked eye.
+If these sources are lost, stolen, or damaged, they could present a hazard to people in the area.
+
+Nuclear Incidents
+Nuclear incidents are much more severe because they involve nuclear fission. Nuclear fission occurs when
+an atom splits and the parts collide with other atoms nearby. Those atoms also split and continue a chain
+reaction that releases tremendous amounts of energy in the form of light, heat, and ionizing radiation.
+Improvised nuclear device (IND) 						
+An improvised nuclear device is a simple nuclear weapon that has less explosive power
+than a more sophisticated nuclear weapon. An IND would produce much more damage
+and contamination than an RDD. This is the type of nuclear weapon a terrorist organization
+would use.
+State-sponsored nuclear weapon						
+These types of nuclear weapons are very sophisticated, both in their design and delivery
+method. These weapons are produced by nations for military purposes. State-sponsored
+nuclear weapons are thousands of times more destructive than an IND.
+
+8
+
+Nuclear detonation
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+What decisions need to be made early in
+a radiation emergency?
+In order to make the right decisions early in the response, you need to get answers to the following questions:
+ What type of incident are we dealing with?
+!!
+If radiological:
+yy
+What type of incident (RDD, RED, power plant,
+
+transportation, industrial)?
+
+KEY QUESTIONS:
+
+yy
+What radionuclides are involved?
+
+ØØ Type of incident?
+
+yy
+What is the half-life for each radionuclide?
+
+ØØ Affected areas?
+
+yy
+Is the radioactive material a solid, liquid, or gas?
+
+ØØ How many people affected?
+
+yy
+Do we have medical countermeasures for the
+
+ØØ Primary hazards?
+
+radionuclides involved?
+
+ØØ Safety precautions needed?
+
+!!
+If nuclear:
+
+ØØ Communication?
+
+yy
+What type of device (IND, state-sponsored)?
+
+ØØ Notifications?
+
+yy
+How big was the device?
+yy
+Where is the fallout going?
+
+yy
+How quickly will the radiation levels decrease (radioactive decay)?
+
+!!
+What areas are affected?
+yy
+How much contamination is in these areas?
+yy
+What are the radiation levels in these areas?
+yy
+What critical infrastructure and services are impacted?
+
+!!
+How many people are there?
+yy
+How many live or work in the area?
+yy
+How many visit or travel through the area each day?
+yy
+Are any special events being held that would attract more people?
+
+!!
+What are the primary radiation hazards (exposure, contamination)?
+yy
+What are the other hazards (e.g., fires, collapsed buildings, secondary devices)?
+yy
+What response assets do we need to address these hazards (search and rescues, fire,
+
+hazmat, medical)?
+!!
+What safety precautions do responders need to take?
+yy
+What are the safety considerations for first responders, such as police, fire, and EMS?
+yy
+What are the safety considerations for first receivers and hospital personnel?
+yy
+What are the safety considerations for other emergency workers and volunteers, such as staff
+
+at community reception centers and public shelters?
+
+9
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+!!
+How do we communicate to people in the affected area and in the surrounding area?
+yy
+What communications channels are available?
+yy
+Do we have technical experts who can help craft the messages?
+
+!!
+What state and federal agencies do we need to notify?
+yy
+Which agencies can provide technical assistance?
+
+Some of these questions may be difficult to answer initially. For the radiation-specific questions, the state and
+federal radiation response assets identified later in this guide will be a valuable source of information.
+Once you have gathered the information you need, your
+next step is to determine the best initial protective actions
+for people in the affected area. Correctly deciding whether
+people should evacuate or shelter-in-place will likely save
+the most lives during the response.
+
+INITIAL PROTECTIVE ACTIONS
+ØØ Shelter-in-place
+ØØ Evacuation
+
+Some radiation emergencies, such as nuclear power plant accidents, evolve slowly. For these types of incidents,
+it may be possible to evacuate people from an area before contamination gets there. However, evacuating large
+populations presents different hazards that may put people at greater risk than the potential radiation exposure.
+For example, congested roadways can lead to traffic accidents and can cause delays transporting critically ill
+or injured patients. Furthermore, people with chronic illnesses may suffer complications due to the stress of the
+evacuation. It’s imperative to consider the potential risks from evacuation before issuing that order.
+For radiation emergencies that develop more quickly, the best course of action is for people to shelter-in-place
+until radiation experts can assess the hazard and provide further instructions. An incident involving an RDD is
+unlikely to distribute enough contamination to present a serious exposure hazard to people in the area. However,
+people who leave a safe structure will put themselves at risk for internal and external contamination. Even though
+determining which areas are contaminated will take time, the best course of action in this case is to encourage
+people to shelter-in-place until authorities know where contamination is present.
+Sheltering in place is even more important for an IND. Radioactive fallout from an IND presents a serious exposure
+hazard. Staying inside a sturdy building will protect people from the radiation outside. People who try to evacuate
+too soon will be putting themselves in danger by being outside in a highly radioactive environment. Radioactive
+fallout loses energy quickly and becomes less dangerous as time passes. After 24 to 48 hours, radiation levels
+will decrease to a fraction of what they were initially, making evacuating the area much safer for people.
+
+10
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+In a Radiation Emergency:
+
+Get Inside
+
+Stay Inside
+
+Stay Tuned
+Icons showing going inside;
+staying inside; staying tuned
+
+Building as Shielding. For an accessible version of this illustration, please go to:
+https://www.remm.nlm.gov/buildingblast.htm
+
+What are the roles and responsibilities of various agencies?
+The response by federal agencies to a major radiological emergency is outlined in the 2016 Nuclear/Radiological
+Incident Annex (NRIA) to the Response and Recovery Federal Interagency Operational Plans1. The NRIA defines
+the roles and responsibilities of different federal agencies and discusses the specific authorities, capabilities,
+and assets that the federal government can bring to bear. It also discusses how these assets will organize and
+operate in conjunction with each other and with local and state response partners.
+Depending on the nature of the radiological incident, certain federal agencies may be designated as the
+“primary authority” – meaning that this agency is responsible for coordinating the activities of other federal
+agencies and working directly with state and local agencies. The NRIA contains detailed information about which
+agencies have primary response authority for different radiological or nuclear incidents. Table 2 provides 
+a synopsis of this information.
+
+The NRIA is available at https://www.fema.gov/media-library/assets/documents/25554
+
+1
+
+11
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Table 2: Primary Authority for Radiation Emergencies
+
+Primary Authority for Federal
+Response
+Department of Homeland Security (DHS)
+Nuclear Regulatory Commission (NRC)
+
+Department of Energy (DOE)
+
+Department of Defense (DOD)
+
+Environmental Protection Agency (EPA)
+
+Type of Incident
+Incidents involving RDDs, REDs, INDs, or deliberate attacks on
+radiological or nuclear facilities
+Incidents at NRC licensed facilities, including nuclear power plants
+Transportation of radioactive materials licensed by NRC or
+Agreement States
+Incidents involving radioactive materials managed by DOE, including:
+yy Nuclear facilities
+yy Nuclear weapons and components
+yy Transportation of radioactive materials by or for DOE
+yy Unwanted radioactive materials
+yy Lost or orphaned radioactive materials
+Incidents involving radioactive materials managed by DOD, including:
+yy Nuclear facilities
+yy Nuclear weapons and components
+yy Transportation of radioactive materials by or for DOD
+yy Radioactive materials in DOD space vehicles
+Incidents involving radioactive materials not managed by other
+agencies, including:
+yy Nuclear facilities
+yy Transportation
+yy International incidents that could impact the United States
+
+U.S. Coast Guard (USCG)
+
+Incidents not managed by other agencies that impact the
+coastal zone
+
+U.S. Customs and Border Protection (CBP)
+
+Incidents involving inadvertently imported radioactive materials
+
+National Aeronautics and Space
+Administration (NASA)
+
+Incidents involving radioactive materials in NASA space vehicles
+
+Department of State (DOS)
+
+Foreign incidents involving radioactive materials requiring support
+from the US Government
+
+12
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Left Photo: People arriving at a Community Reception Center Right Photo: Person being screened for contamination using radiation detector
+
+What responsibilities fall to public health
+during a radiation emergency?
+Public health authorities have primary responsibility for the following actions:
+Conducting population monitoring
+Initiating health surveillance and epidemiological investigations
+Coordinating the distribution of medical resources
+Providing guidance regarding the use of altered standards of care
+
+and managing scarce medical resources
+Of the responsibilities listed, conducting population monitoring is likely to be the most challenging. Population
+monitoring is a process that begins soon after a radiation incident is reported and continues until all potentially
+affected people have been monitored and evaluated for the following:
+The need for medical treatment
+The presence of radioactive contamination on the body or clothing (external contamination)
+The intake of radioactive materials into the body (internal contamination)
+The removal of external or internal contamination (decontamination)
+The radiation dose received and the resulting health risk from the exposure
+Long-term health effects
+
+These assessments, with the exception of evaluating people for long-term health effects, should be
+accomplished as soon as possible following an incident. Health officials will need to establish a population
+registry and conduct an epidemiologic investigation to evaluate people for long-term health effects. This process
+may span multiple decades.
+While local health agencies may initiate population monitoring, state and federal health assets will likely be
+needed to augment local resources. The Centers for Disease Control and Prevention (CDC) guide Population
+Monitoring in Radiation Emergencies: A Guide for State and Local Public Health Planners2 provides detailed
+information on the public health planning considerations for radiation emergencies.
+
+2
+
+Population Monitoring: A Guide for State and Local Public Health Planners is available at
+
+https://www.cdc.gov/nceh/radiation/emergencies/pdf/population-monitoring-guide.pdf
+
+13
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+What is the response timeline?
+Phases of Radiation Emergency Response
+Radiation emergency response activities fall into three phases – early, intermediate, and late. Early phase
+activities are those required for lifesaving and immediate protection from radiation and radioactive materials.
+These activities are often based on limited information or projections. Intermediate phase activities typically
+involve protecting individuals from chronic exposure to radioactive materials on the ground, in bodies of water,
+and incorporated in or deposited on food products. Late phase activities are those designed to return the affected area to normalcy. See Table 3 for a summary of activities and planning considerations for each phase.
+
+PHASES OF RADIATION EMERGENCY RESPONSE
+ØØ
+Early
+
+ Intermediate
+
+ Late
+
+Delineations between phases are not strict, and their durations can vary greatly, depending on the type and
+severity of incident. Activities in multiple phases may occur simultaneously. For simple incidents, a complete
+response may take only a few hours. For large, complicated incidents, intermediate and late phase response
+activities may require decades. For example, recovery activities are still ongoing near the Chernobyl reactor site
+in Ukraine, over 30 years after the reactor accident. Appendix C contains an expanded discussion of early,
+intermediate, and late phase activities.
+
+14
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Table 3: Response and Recovery Phases for Radiation Emergencies3
+Timeframe
+
+Information
+Available
+
+Priority Activities
+
+Dose Limits
+
+Days to weeks
+
+yy Models and
+
+yy Issue order to
+
+Issue evacuation or SIP
+order if:
+yy Projected dose
+exceeds 10-50 mSv
+(1-5 rem) over 4
+days
+
+Intermediate
+
+Weeks to months
+
+yy Ground and aerial
+
+Late
+
+Months to years
+
+yy Detailed analysis
+
+Phase
+Early
+
+predictions
+yy Initial environmental
+measurements
+
+measurements
+of environmental
+radiation
+yy Refined models
+yy Laboratory analysis
+of water, soil,
+vegetation, and
+crops
+
+of environmental
+radiation levels
+and radioactive
+contamination
+
+shelter-in-place (SIP)
+or evacuate
+yy Conduct
+contamination
+monitoring of people
+and pets
+yy Identify and treat
+radiation casualties
+yy Establish exposure
+registry of affected
+populations
+yy Relocate affected
+populations
+yy Impose or adjust
+agricultural controls
+yy Establish re-entry
+into affected areas
+yy Facilitate the
+eventual return of
+members of the
+public to affected
+areas
+yy Establish exposure
+registry of affected
+populations
+yy Determine priorities
+for and feasibility
+of cleaning
+important sites and
+infrastructure
+yy Determine
+permissible alternate
+use of affected
+areas
+yy Establish exposure
+registry of affected
+populations
+
+Relocate population
+if projected dose
+exceeds:
+yy 20 mSv (2 rem) in
+the first year
+yy 5 mSv (0.5 rem) in
+any subsequent
+year
+
+yy Prioritize
+
+remediation
+activities to achieve
+ALARA (As Low
+As Reasonably
+Achievable)
+
+This table is adapted from information in the EPA PAG Manual, available at https://www.epa.gov/sites/production/files/2017-01/
+documents/epa_pag_manual_final_revisions_01-11-2017_cover_disclaimer_8.pdf
+3
+
+15
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+What assets are available to respond to a
+radiation emergency?
+Many state and federal radiation response assets are available to support local authorities. When
+requested by local officials, these assets will fold into the operations and planning sections in the incident
+command structure.
+
+State Assets
+State Radiation Control4
+Each state has a radiation control authority that regulates the use of
+radioactive materials. This asset is usually positioned within the state
+public health agency or the state environmental protection agency. The
+state radiation control authority will be a vital asset during the response
+and should be notified immediately if responders suspect an incident
+involves radioactive material.
+National Guard Weapons of Mass Destruction Civil Support
+Teams (WMD CST)5
+Each state and territory has a National Guard Weapons of Mass
+Destruction Civil Support Team (WMD CST). These teams are equipped
+to respond to suspected WMD or hazmat incidents in support of state
+and local authorities. In a radiation emergency, the WMD CST can help
+determine the extent of the hazard. The WMD CST will be the “tip of the
+spear” for the Department of Defense (DOD) domestic response assets
+and can help state and local authorities determine whether additional
+DOD resources are needed to assist in the response.
+Radiological Emergency Preparedness (REP) Program6
+States that have nuclear power plants have a Radiological Emergency
+Preparedness (REP) Program that provides training, conducts exercises,
+and supports emergency response activities. State and local emergency
+management agencies typically manage these programs. The primary
+mission is to coordinate preparedness efforts in the areas surrounding
+nuclear power plants, although REP resources and expertise could be
+put to use in other types of radiation emergencies.
+
+Logos
+Top: Conference or Radiation
+Control Program Directors
+Middle: National Guard Weapons
+of Mass Destruction Civil
+Support Teams
+Bottom: Radiological Emergency
+Preparedness Program
+
+4
+
+To locate your state radiation control office, visit http:/www.crcpd.org
+
+For more information on WMD CSTs, visit https://www.nationalguard.mil/Portals/31/Resources/Fact%20Sheets/Weapons%20
+of%20Mass%20Destruction%20Civil%20Support%20Team%20Fact%20Sheet%20(Dec.%202017).pdf
+5
+
+For more information on REP, visit https://www.fema.gov/radiological-emergency-preparedness-program
+
+6
+
+16
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Federal Assets
+Department of Energy (DOE)
+The U.S. Department of Energy (DOE) manages most of the resources used to supplement state and local
+efforts in a radiation emergency. These resources include:
+National Atmospheric Release Advisory Center (NARAC)7
+The National Atmospheric Release Advisory Center (NARAC) provides predictive plots and maps showing
+the areas affected by the radiation emergency and to what extent they are affected. Early in a response,
+NARAC analysts create preliminary maps based on many assumptions. As responders gather more data
+from the affected area, NARAC refines the maps, providing a better characterization of radiation levels in the
+environment.
+Radiological Assistance Program (RAP)8
+Each National Laboratory maintains on-call radiation protection personnel to respond to radiation incidents
+at the request of state officials. Radiological Assistance Program (RAP) teams typically deploy with hand-held
+radiation detection equipment. In addition to monitoring environmental radiation levels, RAP teams can collect
+soil, water, and vegetation samples for laboratory analysis.
+
+Left Photo: Airplane used in the Aerial Measuring System Right Photo: Plots from aerial radiation surveys over Fukushima, Japan
+
+Aerial Measuring System (AMS)9
+DOE maintains several rotary- and fixed-wing aircraft outfitted with radiation detection equipment. DOE also
+has the ability to equip several additional rotary-wing aircraft with the just-in-time deployment of radiation
+detection equipment.
+AMS assets fly over the affected area in a serpentine pattern, measuring gamma radiation levels and relaying
+these measurements to analysts on the ground. Radiation detectors aboard fixed-wing aircraft can be rapidly
+deployed to an accident scene and can provide a quick look to identify suspected areas of high contamination.
+Rotary-wing aircraft are slower to respond, but can provide a detailed assessment of radioactive materials
+deposited on the ground.
+
+For more information on NARAC, visit https://narac.llnl.gov/
+
+7
+
+For more information on RAP, visit https://www.energy.gov/nnsa/leadership-and-offices/emergency-operations
+
+8
+
+For more information on AMS, visit https://www.energy.gov/nnsa/aerial-measuring-system-ams
+
+9
+
+17
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Federal Radiological Monitoring and Assessment Center (FRMAC)10
+The FRMAC is a multi-agency organization responsible for coordinating
+radiological monitoring, sampling, and assessment activities. DOE staffs the
+FRMAC with an incident command staff from its Nevada Operations Office
+and personnel from the DOE National Laboratories. State and local personnel
+work side-by-side with federal counterparts to conduct radiation monitoring.
+Logo of Federal Radiological
+
+DOE directs the FRMAC through the immediate response phase. After
+Monitoring and Assessment Center
+environmental releases have ceased and environmental contamination
+has been characterized, the U.S. Environmental Protection Agency (EPA) takes control of the FRMAC to
+direct cleanup efforts.
+Once a decision has been made to establish the FRMAC, personnel and assets move in phases. Initially,
+senior FRMAC staff will travel to a location near the scene to meet with state decision makers and
+radiation protection personnel. Over the next 72 hours, additional FRMAC personnel and assets will
+arrive at the FRMAC location. As FRMAC collects data from field sampling teams, NARAC analysts use
+this information to update contamination maps and plume models. The updated maps help create a
+common operating picture for federal, state, and local officials.
+Radiation Emergency Assistance Center/Training Site (REAC/TS)11
+REAC/TS is a medical asset located in Oak Ridge, Tennessee. The clinicians and health physicists at
+REAC/TS provide medical advice, training, and on-site assistance for the treatment of radiation injuries.
+During a radiation emergency response, REAC/TS personnel typically co-locate with the FRMAC and are
+available to provide guidance to health officials managing the medical response.
+
+A patient being decontaminated in medical setting
+
+10
+
+For more information on FRMAC, visit https://www.energy.gov/nnsa/nuclear-incident-response
+
+11
+
+For more information on REAC/TS, visit https://orise.orau.gov/reacts/
+
+18
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Environmental Protection Agency (EPA)
+The Environmental Protection Agency (EPA) maintains several assets that can
+assist state and local authorities during a radiation emergency. These include:
+RadNet12
+EPA’s RadNet is a network of 140 radiation monitoring stations that provides
+real-time radiation monitoring in all 50 states. The stations monitor air, precipitation,
+and drinking water samples. During a radiation emergency, scientists can use this
+information to determine the extent of the contamination and determine what
+protective actions to take.
+
+Logo of Environmental
+Protection Agency
+
+Airborne Spectral Photometric Environmental Collection Technology (ASPECT)13
+EPA’s ASPECT is a fixed-wing aircraft that provides real-time chemical and radiological monitoring. During a
+radiation emergency, ASPECT will work with the DOE Aerial Measuring System assets to monitor radiation
+levels in the affected area. ASPECT can deploy within nine hours of notification.
+Radiological Emergency Response Teams (RERT)14
+EPA’s Radiological Emergency Response Team (RERT) works with federal, state and local agencies to monitor
+radioactivity and clean up affected areas. During a radiation emergency, EPA uses its protective action
+guidelines to help determine what actions are necessary to protect people from unhealthy levels of radiation.
+
+Picture of the Nationwide Environmental Radiation Monitoring System
+
+12
+
+For more information on RadNet, visit https://www.epa.gov/radnet
+
+13
+
+For more information on ASPECT, visit: https://www.epa.gov/emergency-response/aspect
+
+14
+
+For more information on RERT, visit https://www.epa.gov/radiation/radiological-emergency-response
+
+19
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Advisory Team for Environment, Food, and Health (Advisory Team)15
+Although FRMAC, in conjunction with AMS, RAP, and NARAC, can provide a
+detailed characterization of the radiological consequences of an emergency,
+it does not provide recommendations regarding protective actions for protecting
+the public.
+The Advisory Team consists of representatives from the EPA, the U.S. Department
+of Agriculture (USDA), the Food and Drug Administration (FDA), and the CDC,
+plus other federal agencies as needed. The Advisory Team interprets information
+provided by FRMAC, NARAC and other sources, and provides recommendations
+to the Coordinating Agency and local/state decision-makers regarding matters of
+health (including animal health), the environment, and food. This advice includes:
+Interpretation of the EPA protective action guides (PAGs)16
+
+Logo: The Advisory Team
+for Environment, Food,
+and Health
+
+Actions to minimize the contamination of food and water
+Actions to minimize the ingestion of contaminated food and water
+Relocation of members of the general public
+Return of the general public to areas which had been previously evacuated
+
+Advisory Team members may be embedded with the FRMAC or at the state or local emergency operations
+center. Team members may also operate remotely, participating by computer, telephone, or video-conference.
+
+The Advisory Team members during an exercise
+
+15
+
+For more information on the Advisory team, visit https://cdn.ymaws.com/www.crcpd.org/resource/resmgr/ATeam/Ateam.htm
+
+PAG Manual: Protective Action Guides and Planning Guidance for Radiological Incidents is available at
+https://www.epa.gov/sites/production/files/2017-01/documents/epa_pag_manual_final_revisions_01-11-2017_cover_disclaimer_8.pdf
+
+16
+
+20
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+What planning and guidance documents should
+I know about?
+1.	 The 2016 Nuclear/Radiological Incident Annex (NRIA) to the Response
+and Recovery Federal Interagency Operational Plans :
+Describes how federal agencies are organized and the processes that
+
+they will use in responding to nuclear/radiological incidents
+Provides information that is specific and unique to federal nuclear/
+
+radiological incident response (with particular emphasis on assets,
+resources and teams)
+Details how federal agencies will share information regarding
+
+suspected terrorist incidents
+The NRIA also provides information about how federal agencies
+will implement interagency operations plans.
+2.	 The CDC developed Population Monitoring in Radiation Emergencies:
+A Guide for State and Local Public Health Planners to help state, tribal,
+and local officials determine whether their plans adequately address
+population monitoring. This guide also helps planners identify staffing
+needs, training requirements, and resources necessary to conduct
+population monitoring.
+
+3.	 The EPA developed the PAG Manual: Protective Action Guides and
+Planning Guidance for Radiological Incidents to help federal, state,
+and local responders plan for radiological emergencies. The manual
+contains radiation dose guidelines for triggering public protective actions,
+such as evacuation, sheltering-in-place, and the administration of
+radioprotective drugs.
+
+4.	 The CDC developed A Guide to Operating Public Shelters in a
+Radiation Emergency to assist planning and response efforts related
+to shelter operations in a radiation emergency. The document
+includes information and guidance concerning radiation monitoring,
+screening for radioactive contamination, decontamination,
+registration, health surveillance, and risk communication.
+
+Column shows cover pages from the following documents: Nuclear/Radiological Incident Annex (NRIA) to the Response and
+Recovery Federal Interagency Operational Plans; Population Monitoring in Radiation Emergencies: A Guide for State and Local
+Public Health Planners; PAG Manual: Protective Action Guides and Planning Guidance for Radiological Incidents; and A Guide to
+Operating Public Shelters in a Radiation Emergency
+
+21
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+5.	 The Conference of Radiation Control Program Directors, Inc. (CRCPD)
+developed the Handbook for Responding to a Radiological Dispersal
+Device: First Responders Guide – The First 12 Hours as a training tool
+for first responders. The handbook includes a response flow chart, rules
+of thumb for radiation emergencies, guidance on establishing radiation
+zones, and information regarding the use of radiation instrumentation. The
+handbook, which is available free to download or for sale in hard copy or
+on DVD, is accompanied by the RDD Pocket Guide.
+
+6.	 National Security Staff in the Executive Office of the President
+prepared Planning Guidance for Response to a Nuclear Detonation to
+provide response personnel with guidance and recommendations for
+responding to a nuclear detonation. The guidance addresses the scale
+of destruction involved in a nuclear detonation and provides information
+on sheltering-in-place, evacuation, and casualty management. The
+guidance is applicable for the first several days in an area with severely
+compromised infrastructure.
+
+7.	 The DOE published the FRMAC Operations Manual to describe
+FRMAC’s activities in coordinating the federal response to a
+large-scale radiological incident. The manual describes FRMAC’s
+monitoring, sampling, and assessment activities, and describes the
+federal assets providing those capabilities. The manual also outlines
+how FRMAC is incorporated into the National Incident Management
+System (NIMS) under the NRF. Other FRMAC manuals describe in
+detail FRMAC procedures for sample collection, laboratory sample
+analysis and assessment and worker health and safety.
+Column shows cover pages
+from the following documents:
+Handbook for Responding to a
+Radiological Dispersal Device:
+First Responders Guide –
+The First 12 Hours; Planning
+Guidance for Response to a
+Nuclear Detonation; and FRMAC
+Operations Manual
+
+22
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Appendix A: Radiation Measurement and Risk
+When scientists measure radiation, they use different terms to discuss:
+Activity – The amount or radiation coming from a radioactive source
+Absorbed Dose – The radiation dose absorbed by a person
+Equivalent Dose and Effective Dose – The biological risk that a person will suffer health effects from
+
+exposure to radiation.
+This section explains some of the terminology used to discuss radiation measurement.
+
+Units of Measurement
+Most scientists in the international community measure radiation using the System Internationale (SI), a uniform
+system of weights and measures that evolved from the metric system. In the United States, however, the
+conventional system of measurement is still widely used. Table 4 lists the SI and conventional units for radiation
+measurement.
+Table 4: Units of Radiation Measurement
+
+Measurement
+
+SI Unit
+
+Conventional Unit
+
+Conversion
+
+Activity
+
+Becquerel (Bq)
+
+Curie (Ci)
+
+37 billion Bq = 1 Ci
+
+Gray (Gy)
+
+rad
+
+1 Gy = 100 rad
+
+Sievert (Sv)
+
+rem
+
+1 Sv = 100 rem
+
+(How much radiation is present in
+the environment?)
+Absorbed Dose
+(How much radiation is interacting
+with my body?)
+Equivalent Dose
+or
+Effective Dose
+(How much damage will it do?)
+
+Left Photo: Personal radiation monitor Right Photo: Worker conducting radiation screening of someone’s hands
+
+23
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Measuring Emitted Radiation
+When the amount of radiation being emitted or given off is discussed, the unit of measure used is the
+conventional unit Ci or the SI unit Bq.
+A radioactive atom gives off or emits radioactivity because the nucleus has too many particles, too much
+energy, or too much mass to be stable. The nucleus breaks down, or disintegrates, in an attempt to reach a
+nonradioactive (stable) state. As the nucleus disintegrates, energy is released in the form of radiation.
+The Ci or Bq is used to express the number of disintegrations of radioactive atoms in a radioactive material over
+a period of time. For example, one Ci is equal to 37 billion (37 X 109) disintegrations per second.
+Ci or Bq may be used to refer to the amount of radioactive materials released into the environment. For example,
+during the Chernobyl power plant accident, an estimated total of 81 million Ci of radioactive cesium (a type of
+radioactive material) was released.
+
+Measuring Radiation Dose
+When a person is exposed to radiation, energy is deposited in the tissues of the body. The amount of energy
+deposited per unit of weight of human tissue is called the absorbed dose. Absorbed dose is measured using the
+conventional unit rad or the SI unit Gy. The rad, which stands for radiation absorbed dose, was the conventional
+unit of measurement, but it has been replaced by the Gy.
+
+Determining Biological Risk
+A person’s biological risk (that is, the risk that a person will suffer health effects from an exposure to radiation) is
+measured using the conventional unit rem or the SI unit Sv.
+To determine a person’s biological risk, scientists have assigned a number to each type of ionizing radiation (e.g.,
+alpha, beta, gamma) depending on that type’s ability to transfer energy to the cells of the body. This number is
+known as the Radiation Weighting Factor (wr). Thus, rem = rad x wr; Sv = Gy x wr.
+There are two types of measurements that quantify biological risk:
+Equivalent Dose – Considers the biological impact of different types of radiation (e.g., alpha, beta, gamma) by
+multiplying absorbed dose by the Radiation Weighting Factor.
+Effective Dose – Considers the sensitivity of specific tissues and organs to certain types of radiation, as well as
+the behavior of different radionuclides inside the body, by taking a sum of the equivalent doses calculated for the
+tissues and organs affected.
+
+24
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Abbreviations for Radiation Measurements
+When the amounts of radiation being measured are less than 1, prefixes are attached to the unit of measure as
+a type of shorthand. This is called scientific notation and is used in many scientific fields, not just for measuring
+radiation. Table 5 shows the prefixes for radiation measurement and their associated numeric notations.
+Table 5: Prefixes for Small Numbers
+Scientific
+Prefix
+Notation
+
+Decimal
+
+Abbreviation
+
+Example
+
+atto-
+
+1 X 10-18
+
+0.000000000000000001
+
+a
+
+aCi
+
+femto-
+
+1 X 10-15
+
+0.000000000000001
+
+f
+
+fCi
+
+pico-
+
+1 X 10-12
+
+0.000000000001
+
+p
+
+pCi
+
+nano-
+
+1 X 10-9
+
+0.000000001
+
+n
+
+nCi
+
+micro-
+
+1 X 10-6
+
+0.000001
+
+µ
+
+µCi
+
+milli-
+
+1 X 10-3
+
+0.001
+
+m
+
+mCi
+
+centi-
+
+1 x 10-2
+
+0.01
+
+c
+
+cGy
+
+When the amount to be measured is 1000 (that is, 1 X 103) or higher, prefixes are attached to the unit of
+measure to shorten very large numbers (also scientific notation). Table 6 shows the prefixes used in radiation
+measurement and their associated numeric notations.
+Table 6: Prefixes for Large Numbers
+Scientific
+Prefix
+Notation
+kilo1 X 103
+mega1 X 106
+1 X 109
+gigatera1 X 1012
+peta1 X 1015
+exa1 x 1018
+
+Decimal
+
+Abbreviation
+
+Example
+
+1000
+1,000,000
+100,000,000
+
+k
+M
+G
+
+kCi
+MCi
+GBq
+
+100,000,000,000
+100,000,000,000,000
+100,000,000,000,000,000
+
+T
+P
+E
+
+TBq
+PBq
+EBq
+
+Clinicians and health officials can work with radiation professionals to determine the biological risk associated
+with a person’s radiation dose.
+
+25
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Common Radiation Exposures
+People are exposed to radiation daily from different sources, such as naturally occurring radioactive materials
+in the soil and cosmic rays from outer space. Table 7 shows some common ways that people are exposed to
+radiation and the associated doses. These values help put radiation doses in perspective.
+Table 7: Examples of Common Radiation Exposures
+Source of exposure
+Dose in millirem (mrem)
+One dental x-ray
+0.5 mrem
+Exposure to cosmic rays during a
+3 mrem
+roundtrip airplane flight from New
+York to Los Angeles
+One chest x-ray
+10 mrem
+One mammogram
+70 mrem
+One year of exposure to natural
+300 mrem
+radiation (from soil, cosmic rays)
+One CT scan
+1000 mrem
+
+Dose in millisievert (mSv)
+0.005 mSv
+0.03 mSv
+0.1 mSv
+0.7 mSv
+3 mSv
+10 mSv
+
+Determining Cancer Risk
+Researchers have spent decades tracking the health outcomes of populations who have been exposed to
+different levels of radiation, including atomic bomb survivors in Japan, nuclear medicine patients, and radiation
+workers. Studying these populations helps us better understand the relationship between radiation exposure
+and cancer risk.
+The general consensus in the scientific community is that any radiation dose, even a small dose, proportionally
+increases a person’s risk of developing cancer. That is, higher doses present a greater cancer risk, and lower
+doses present a smaller cancer risk. However, determining whether a particular cancer was caused by a low
+dose of radiation or by another factor - such as smoking, environmental contaminants, or genetic predisposition
+– is very difficult.
+The most extensive study to date on cancer risk from radiation exposure was conducted by the National
+Academy of Sciences. This study, Biological Effects of Ionizing Radiation VII (BEIR VII), is the continuation of
+a comprehensive epidemiological investigation that looks at the long-term health effects of low-level radiation
+exposure.17
+The BEIR VII study derives cancer risk projections from a range of radiation exposures and provides a
+comparison to baseline cancer risk for the U.S. population. People in the United States have a 42% chance of
+developing cancer at some point in their lives. To put it another way, for every 100 people in the United States,
+42 will develop cancer. According to the BEIR VII study, a one-time dose of 100 mSv (10 rem) results in a 1%
+increase in cancer risk, or an additional one case of cancer per 100 people.
+In the report, the BEIR VII authors note that estimating cancer risk for doses below 100 mSv (10 rem) is more
+difficult. For example, they estimate that a dose of 10 mSv (1 rem) will result in a 0.1% increase in cancer risk, or
+an additional 1 case of cancer per 1000 people. However, they recognize that additional research needs to be
+conducted to better quantify the cancer risk associated with low doses of radiation.
+
+Health Risks from Exposure to Low Levels of Ionizing Radiation: BEIR VII Phase 2 is available at https://www.nap.edu/catalog/11340/healthrisks-from-exposure-to-low-levels-of-ionizing-radiation
+17
+
+26
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Appendix B: Medical Management of Radiation Casualties
+Radioprotective Drugs
+Some incidents may lend themselves to the use of radioprotective drugs. These drugs work in one of the
+following ways:
+Blocking internal contamination from being absorbed in particular organs
+Binding internal contamination to speed up excretion from the body
+Stimulating the bone marrow to produce white blood cells
+
+The drugs that work to block or bind internal contamination are:
+Potassium Iodide (KI)
+Prussian Blue
+Diethylenetriaminepentaacetic acid (DTPA)
+
+The drugs that work to stimulate the production of white blood cells are granulocyte colony stimulating factors
+(G-CSF), such as filgrastim. After a large radiation dose, the number of white blood cells drops, leaving people
+susceptible to infection. By stimulating the production of new white blood cells, filgrastim helps prevent
+infections that could be fatal after a radiation exposure.
+Clinicians and radiation professionals will need to work together to identify the specific radioactive material and
+the radiation levels involved in an incident before administering radioprotective drugs. Depending on the nature
+of the incident, the distribution of medical countermeasures may be widespread (e.g., KI) or very selective (e.g.,
+DTPA). The efficacy of these drugs depends largely on the timeliness of administration, as outlined in Table 8.
+
+Acute Radiation Syndrome
+Acute Radiation Syndrome (ARS), or radiation sickness is a serious illness that can develop when a
+person receives a high dose of radiation, usually over a short period of time. People exposed to radiation
+will get ARS only if:
+The radiation dose was high
+The radiation was able to reach internal organs (penetrating)
+The person’s entire body, or most of it, received the dose
+The radiation was received in a short time, usually within minutes
+
+Symptoms of ARS include nausea, vomiting, headache, and diarrhea.
+These symptoms start within minutes to days after the exposure, can
+last for minutes up to several days, and may come and go.
+After the initial symptoms, a person usually looks and feels healthy for
+a period of time, after which he becomes sick again. The symptoms
+and severity vary depending on the radiation dose. Symptoms
+include loss of appetite, fatigue, fever, nausea, vomiting, diarrhea, and
+possibly even seizures and coma. This stage of illness may last from
+a few hours up to several months.
+
+minutes
+
+Illustration: Graph showing the degree of
+radiation injury based on lymphocyte count
+
+Treatment of ARS focuses on reducing and treating infections, maintaining hydration, and treating injuries and
+burns. Some patients may benefit from treatments that help the bone marrow recover its function. The lower
+the radiation dose, the more likely it is that the person will recover from ARS. The cause of death in most cases
+is the destruction of the person’s bone marrow, which results in infections and internal bleeding. For survivors of
+ARS, the recovery process may last from several weeks up to 2 years.
+27
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Table 8: Medical Countermeasures for Internal Contamination and Radiation Injury
+
+Countermeasure Radionuclide
+Potassium Iodide
+(KI)
+Prussian Blue
+
+DTPA
+
+Filgrastim
+
+What it Does
+
+Radioactive iodine
+
+Saturates thyroid gland
+with stable iodine,
+blocking the uptake of
+radioactive iodine.
+Cesium and thallium
+Binds cesium and
+thallium and keeps
+them from being
+absorbed into the
+body. Contamination is
+excreted in the feces.
+Plutonium, americium, Binds plutonium,
+and curium
+americium, and curium
+and keeps them from
+being absorbed into the
+body. Contamination is
+excreted in the urine.
+Used to treat high
+Stimulates bone
+marrow to produce
+radiation exposure.
+Not radionuclidenew white blood cells.
+specific.
+Helps patients fight
+off infections during
+recovery.
+
+28
+
+Timeframe
+
+Setting for
+Administration
+
+Before exposure (most Notified by
+protective) or within 4 emergency officials,
+hours after exposure. self-administered.
+As soon as possible
+Prescribed by
+after internal
+physician, selfcontamination. Most
+administered.
+effective in the first few
+days.
+As soon as possible
+after internal
+contamination. Most
+effective within 24
+hours.
+
+Prescribed and
+administered by
+physician.
+
+As soon as possible
+after lab testing
+confirms drop in white
+blood cell count.
+
+Prescribed and
+administered by
+physician.
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Appendix C: Phases of Radiation Response
+Early Phase Actions
+The primary early phase activity is lifesaving. Lifesaving activities are not anticipated for commercial
+reactor accidents, but may be required for most other accident types. Typically, lifesaving efforts involve
+treating physical injury or trauma and not radiation injury.
+For transportation accidents and RDD detonations, lifesaving efforts are expected to be of short
+duration and involve a limited number of victims. Nuclear detonations, however, may result in a large
+number of victims. Intense search and rescue efforts may be required to locate and recover injured
+people, and treatment may be complicated by damage to local medical facilities and crowding at those
+facilities still in operation. Lifesaving activities related to a nuclear detonation may still be in progress
+weeks after the incident.
+
+Cartoon of “where to go in a radiation emergency” showing a nuclear explosion in the back and people
+getting off a bus and off a car and getting inside a building structure
+
+Sheltering-in-Place
+Sheltering-in-place involves directing people to get indoors and stay indoors during an incident.
+Sheltering is considered a short-term protective measure, lasting a few hours to no more than two to
+three days, depending on the nature of the incident. Radiation professionals may recommend sheltering
+either when a radiation incident is expected to be of a short duration (e.g., a single “puff” release of
+radioactive material from a facility) or in those incidents, such as a nuclear detonation, where sheltering
+for a period of time allows radioactive fallout to decay (lose energy), making evacuation safer.
+
+29
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Evacuation – showing many cars on a highway
+
+Evacuation
+Evacuation involves directing people to leave an area affected by a radiation emergency. Ideally, radiation
+professionals would recommend evacuation prior to any release of radioactive material, but in most cases,
+doing so is not possible. The exception is commercial nuclear power plant accidents, where radiation
+professionals may project the effects of radioactive materials releases based on the status of plant systems,
+wind speed, weather conditions, and other factors. Officials then compare these projections to the EPA
+Protective Action Guides (PAGs)18. If the projected doses exceed the PAGs, officials will recommend
+evacuation19. Preparedness planning in jurisdictions near nuclear reactors includes the designation of
+evacuation routes and reception centers for the evacuated population.
+For other radiation emergencies, evacuation will be recommended on an ad hoc basis. Incident Command,
+perhaps in conjunction with radiation professionals, will need to determine areas to be evacuated and
+where to direct evacuees, often with little or no information other than general wind direction.
+Evacuation of a large population will likely result in many people needing shelter, possibly for an extended
+period of time. Local officials will determine the need for shelters and will often open them in conjunction
+with non-governmental agencies such as the American Red Cross. Planning in jurisdictions near
+commercial nuclear power plants requires the pre-identification of shelter locations. Most local agencies
+have identified shelters for other disasters. Typical locations include schools, churches, and public
+recreation facilities. These locations can also be used to shelter people displaced by a radiation emergency.
+CDC’s Guide for Operating Public Shelters in a Radiation Emergency20 can assist with planning and
+response efforts related to shelter operations in a radiation emergency.
+PAG Manual: Protective Action Guides and Planning Guidance for Radiological Incidents is available at https://www.epa.gov/sites/production/files/2017-01/documents/epa_pag_manual_final_revisions_01-11-2017_cover_disclaimer_8.pdf
+18
+
+They may recommend shelter-in-place if there are impediments to evacuation such as
+weather, road conditions, etc
+
+19
+
+A Guide to Operating Public Shelters in a Radiation Emergency is available at https://www.cdc.
+gov/nceh/radiation/emergencies/pdf/operating-public-shelters.pdf
+20
+
+30
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Helicopter flying over crops
+
+Contamination Monitoring
+Whether people in the affected area shelter-in-place or evacuate, they will need to be monitored for radioactive
+contamination to ensure they are free of contamination. Contamination monitoring can be conducted at
+community reception centers (CRCs), shelters, or at other locations where it would facilitate response efforts.
+For small events, such as transportation accidents and even small RDDs, contamination monitoring may be
+performed locally by first responders. For larger incidents, contamination monitoring may require separate
+facilities and significant personnel and equipment resources. CDC has published several documents that
+address establishing CRCs for radiation monitoring.21 CRCs are locations people can go to be:
+Screened for radioactive contamination
+Decontaminated (if necessary)
+Registered for long-term follow-up
+Referred for additional medical care
+
+These services are core components of population monitoring. In many jurisdictions, public health agencies
+are responsible for planning for population monitoring; however, these agencies often lack the resources
+and personnel to implement these plans. Successful implementation of population monitoring plans at
+the local level will require close coordination with response partners, such as radiation control, hazardous
+materials teams, volunteer organizations, and medical facilities.
+For large events, such as a nuclear detonation, sheltering and population monitoring activities may take
+place a great distance from the incident site – possibly hundreds of miles away. Agencies initially uninvolved
+with incident response may nevertheless become involved with population monitoring activities.
+
+Population Monitoring: A Guide for State and Local Public Health Planners is available at https://emergency.cdc.gov/radiation/
+pdf/population-monitoring-guide.pdf
+21
+
+31
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Identify and Treat Radiation Casualties
+Radiation casualties include people who are exposed to high levels of radiation, internally contaminated with
+radioactive materials, or both. While radiation injuries present with a well-known clinical progression, these
+injuries can complicate or impede the care of other types of injuries, such as lacerations and deep wounds,
+thermal and chemical burns, and compound fractures. Prompt diagnosis and early intervention generally
+improve outcomes. Treatment of radiation casualties typically involves a combination of decorporation therapy
+(i.e., removing radionuclides from the body), administration of drugs to boost the immune system, antibiotic
+therapies to prevent infection, and administration of drugs to manage symptoms of acute radiation syndrome,
+such as nausea and vomiting. An overview of the medical management of radiation casualties can be found in
+Appendix B. Public health and medical planners need to be familiar with the following resources for radiation
+response planning:
+The Radiation Emergency Assistance Center and Training Site (REAC/TS) employs clinicians
+and health physicists to provide medical advice, training, and on-site assistance for the medical
+management of radiation injuries.22
+The Radiation Injury Treatment Network (RITN)23 is a consortium of medical centers that provides
+
+care for radiation injuries, including bone marrow transplants.
+These resources should be notified early in a radiation response to provide assistance with triaging and treating
+radiation casualties.
+
+Establish an Exposure Registry
+An exposure registry established early in the response will aid in the short- and long-term follow up with the
+affected population. People leaving the affected area can be enrolled in the registry at CRCs or other collection,
+evacuation, or treatment sites. Data collection for registries may be electronic or paper-based, but the
+information collected should be standardized across collection sites. At a minimum, the person’s name, contact
+information, location at the time of the incident, and time spent in the affected area should be noted. If available,
+the person’s contamination screening results should be noted in the registry, as well as any pertinent exposure
+information or symptoms noted by medical personnel.
+The Agency for Toxic Substance and Disease Registry (ATSDR) provides a Rapid Response Registry that
+can be adapted for use in a radiation emergency.24 Similarly, the CDC has developed the CRC Electronic
+Data Collection Tool (CRC eTool) to collect information from people reporting to CRC’s.25 Additional registry
+examples can be found in the Resources section of the Virtual Community Reception Center training tool.26
+Each of these tools can be modified to fit the needs of the jurisdiction using them.
+
+24
+25
+
+For more information about the ATSDR Rapid Response Registry, visit https://www.atsdr.cdc.gov/rapidresponse/index.html
+
+The CRC eTool is available at https://emergency.cdc.gov/radiation/crcetool.asp
+
+The vCRC example registration form is available at https://orau.gov/rsb/vcrc/application/Resources/Forms/CRCRegistrationForm.doc
+26
+
+32
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Intermediate Phase Actions
+Intermediate phase actions are designed to protect
+individuals from chronic exposure to radiation or
+radioactive materials. These actions include:
+Imposing (and relaxing) agricultural controls
+Relocating affected populations
+Establishing re-entry into affected areas
+Facilitating the eventual return of members of the
+
+public to affected areas
+
+The beginning of the intermediate phase, particularly for
+nuclear power accidents, may be considered the point in
+time at which releases of radioactive material have been
+terminated.
+Small incidents, for all intents and purposes, have no
+intermediate phase. For example, barring a significant
+release of radioactive material, transportation accidents
+are not anticipated to require any intermediate phase
+responses. Other incidents may require only some of
+these responses. Large-scale radiation incidents, such
+as releases of radioactive materials from nuclear power
+plants, widespread contamination from an RDD, or a
+nuclear detonation, may require the imposition of these
+intermediate phase protective measures for long periods
+of time – years, even decades. In these incidents, the
+intermediate phase may be considered as the point where
+lifesaving activities are complete and other early phase
+protective measures are well in progress.
+
+33
+
+Photo: Person holding a radiation detector conducting
+radiation survey of a field
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Left Photo: Person dressed in personal protective equipment collecting a grass sample Right Photo: Two people dressed in personal
+protective equipment packaging a soil sample
+
+Agricultural Controls
+Local, state and federal agricultural officials are important partners in effective radiation emergency response.
+These officials are responsible for setting agricultural restrictions, such as embargoes, and determining what to
+do with contaminated agricultural products.
+Agricultural restrictions may be imposed early, even as early-phase response actions are underway. These
+restrictions will be based on projections of the extent and magnitude of radioactive contamination. Often,
+agricultural officials will advise farmers to place livestock on stored feed and protected water supplies,
+such as well water, to prevent them from ingesting radioactive materials. State agricultural officials often will
+impose embargoes on the sale or transport of agricultural products based on these same projections.
+Laboratory testing of food products will be required to ultimately determine the safety of water, milk, crops,
+meat, eggs, and other agricultural products. Measurements of the concentrations of radioactive materials
+in food products will be compared to Derived Intervention Levels (DILs) established by the Food and Drug
+Administration (FDA)27.
+Once laboratory testing confirms that specific agricultural products in a particular area consistently exhibit
+radioactive material concentrations less than the DIL, agricultural officials may relax controls on those items.
+Currently, no established limits or guidelines are in place for concentrations of radioactive materials
+in agricultural products that are not consumed as food or drink. For example, pine trees used in the
+manufacture of paper, soy beans used in the manufacture of plastics, and cotton used for clothing will
+need to be evaluated separately to determine if radioactive contamination on the raw materials will present
+a hazard to consumers of the manufactured product. These examples are special cases in which the
+Advisory Team will be key in determining appropriate concentration limits.
+
+27
+
+A table outlining the FDA DILS is available at https://www.fda.gov/downloads/NewsEvents/PublicHealthFocus/UCM251056.pdf
+
+34
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Man and woman pushing boxes on hand truck into a truck
+
+Relocation
+Relocation is similar to evacuation, in that people leave areas where radioactive contamination may cause
+significant radiation exposures. The major differences are that evacuation may be recommended based
+solely on projections of radiation dose, and depending on the severity of a particular incident, may be
+only for a short period of time. Relocation, on the other hand, is a long-term protective action based on
+radiation measurements, sampling, and laboratory analysis. If radiation levels in an area would result in a
+dose of 20 mSv (2 rem) during the first year after the incident, or more than 5 mSv (500 mrem) in any year
+thereafter, radiation professionals will recommend for people in that area to relocate. This relocation would
+be at least one year in duration, and may, in extreme cases, be effectively permanent. For example, an
+area covering 2600 km around the Chernobyl reactor is still restricted from public access, 30 years after
+the reactor accident.
+Re-entry
+Early in the response, small numbers of people may need to re-enter the area to perform critical tasks. For
+example, critical infrastructure, such as communications hardware, power generation facilities, and public
+utilities, may be located in the affected area. Local officials will need to determine under what circumstances to
+allow individuals to enter the area and what measures those individuals will need to take to protect themselves
+from radioactive materials in the area. Often these measures will include a single point of ingress and egress
+and the use of dosimetry instruments and protective clothing. In heavily contaminated areas, entry may require
+respiratory protection and possibly an escort by radiation safety personnel.
+Limited re-entry may also be allowed for personal reasons. For example, after the Fukushima Daiichi
+reactor accidents, the Japanese government permitted limited re-entry under tightly controlled conditions
+for people to retrieve personal possessions and valuables they left behind. These items were monitored
+for radioactive contamination prior to removal from the affected area.
+35
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Return
+Return is simply allowing people to go back to the area to live or work. To return to an area, the radiation levels
+must be below the relocation dose limits (20 mSv or 2 rem in the first year, 5 mSv or 500 mrem in any year
+thereafter). Radiation professionals will continually re-assess the affected area for years after the incident, with
+the goal of identifying areas to which people can return.
+
+People attending a public meeting
+
+Late Phase Actions
+Late phase activities have not been as clearly defined as the activities in the early and intermediate phases. This
+lack of clarity is largely because the United States has not experienced a radiation incident significant enough
+to require clear definition. Late phase activities may include the cleanup of affected sites, particularly critical
+infrastructure and sites that have cultural or historic significance.
+
+A critical component in the late phase is getting all parties to agree on cleanup goals. Depending on the
+nature of the radiation emergency, remediating the affected area to pre-incident background radiation levels
+may not be feasible. Some areas may be too contaminated to go back to their original use, but radiation
+levels may be low enough to provide an alternate use. For example, land that is too contaminated to grow
+crops may be okay to use for recreational purposes. Public officials and residents will need to work together
+to determine the appropriate use for the land.
+
+36
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Notes
+
+37
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+Notes
+
+38
+
+RADIATION RESPONSE BRIEFING MANUAL
+
+40
+
+

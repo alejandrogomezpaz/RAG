@@ -1,0 +1,829 @@
+RADIATION AND YOUR PATIENT:
+A GUIDE FOR MEDICAL PRACTITIONERS
+A web module produced by Committee 3 of the
+International Commission on Radiological Protection (ICRP)
+What is the purpose of this document ?
+In the past 100 years, diagnostic radiology, nuclear medicine and radiation therapy have
+evolved from the original crude practices to advanced techniques that form an essential tool for all
+branches and specialties of medicine. The inherent properties of ionising radiation provide many
+benefits but also may cause potential harm.
+In the practice of medicine, there must be a judgement made concerning the benefit/risk
+ratio. This requires not only knowledge of medicine but also of the radiation risks. This document is
+designed to provide basic information on radiation mechanisms, the dose from various medical
+radiation sources, the magnitude and type of risk, as well as answers to commonly asked questions
+(e.g radiation and pregnancy). As a matter of ease in reading, the text is in a question and answer
+format.
+Interventional cardiologists, radiologists, orthopaedic and vascular surgeons and others,
+who actually operate medical x-ray equipment or use radiation sources, should possess more
+information on proper technique and dose management than is contained here. However, this text
+may provide a useful starting point.
+The most common ionising radiations used in medicine are X, gamma, beta rays and
+electrons. Ionising radiation is only one part of the electromagnetic spectrum. There are numerous
+other radiations (e.g. visible light, infrared waves, high frequency and radiofrequency electromagnetic
+waves) that do not posses the ability to ionize atoms of the absorbing matter. The present text deals
+only with the use of ionising radiation in medicine.
+Is the use of ionising radiation in medicine beneficial to human health?
+Yes. Benefit to patients from medical uses of radiation has been established beyond doubt.
+Modern diagnostic radiology assures faster, more precise diagnosis and enables monitoring
+of a large proportion of diseases. It has been estimated that in about one half of cases, radiological
+procedures (plain film radiography, fluoroscopy, computed tomography) have a substantial impact on
+the speed of diagnosis and in a large fraction of cases they are of decisive importance. Furthermore,
+several screening procedures (such as mammography) have been developed which are beneficial for
+specific populations at relatively high risk of some diseases. In addition a number of interventional
+radiological procedures (e.g angioplasty), introduced in the last 10-20 years, contribute significantly to
+the effectiveness of treatment of very serious and life threatening diseases of the cardiovascular,
+central nervous system and other organ systems. These procedures are also cost-effective.
+Nuclear medicine uses radioactive substances, called radiopharmaceuticals, in the
+diagnosis and treatment of a range of diseases. These substances are especially developed to be
+taken up predominantly by one organ, or type of cell in the body. Following their introduction into the
+body for diagnostic purposes they are followed either by external measurements, yielding images of
+their distribution (both in space and in time), or by activity measurements in blood, urine and other
+media. In all cases the information obtained is of functional character. This information is not
+obtainable, or obtainable with less accuracy, by other modalities. Nuclear medicine offers therefore
+unique diagnostic information in oncology (diagnosis and staging), cardiology, endocrinology,
+neurology, nephrology, urology and others. Most of the methods currently in use are those of choice in
+the diagnostic process, because they show high sensitivity, specificity and good reproducibility. Their
+cost-effectiveness is also high. In addition it should be emphasized that these procedures are noninvasive and present no risk of direct complications to the patient.
+1
+
+One has to remember that whereas electrical generators of ionising radiation (X-ray
+machines, electron accelerators) stop emitting radiation when switched off, radioactive sources do
+emit radiation, which cannot be modified in course of the radioactive decay. This means that some
+precautions may have to be taken with such patients given large therapeutic amounts of radionuclides
+when they are in a hospital and afterwards when they go home - to protect against exposure of the
+staff, relatives, friends and members of the public.
+Radiation therapy uses ionising radiation for treatment. The incidence of cancer is about
+40%, reflecting long life expectancy. Cancer also leads to ~ 20-30 per cent cumulative mortality.
+Current medical practice uses radiotherapy in about 1/2 of newly diagnosed cancer cases. Therapeutic
+techniques can be highly complex, and place very high demands on the accuracy of irradiation. To be
+effective they must be approached on an interdisciplinary basis, requiring effective and harmonious
+cooperation between radiation oncologists, medical physicists and highly qualified technicians.
+However, it should be remembered that radiotherapy of cancer is often accompanied by adverse side
+effects of the treatment. Some adverse effects are unavoidable and often resolve spontaneously or
+with treatment. Serious adverse effects may occur and result from the proximity of sensitive normal
+tissues to the treatment field or rarely as a result of individual radiation sensitivity. They do not
+undermine the purpose of radiotherapy. Appropriate use of radiotherapy saves millions of lives every
+year overall. Even if only palliative treatment is possible the therapy substantially reduces suffering.
+There are also some non-malignant diseases whose treatment by radiation is a method of choice.
+Radiotherapy using radiopharmaceuticals is generally non-invasive but limited to several
+well-established situations where killing hyperfunctioning or malignant cells is important (for example
+hyperthyroidism, cancer of the thyroid, degenerative and inflammatory diseases of joints, palliative
+treatment of metastases to the skeleton). In addition, there are many studies showing significant
+potential for radio-labelled antibodies and receptor - avid peptides to be used in the treatment of
+several malignancies. However, this mode of treatment is still in its early days.
+Ionising radiation is, therefore, one of the basic tools of contemporary medicine, both in
+diagnosis and therapy. Practice of contemporary, advanced medicine, without use of ionizing radiation
+appears currently unthinkable.
+
+Are there risks to the use of ionising radiation in medicine?
+
+There obviously are some risks. The magnitude of risk from radiation is dose-related with
+higher amounts of radiation being associated with higher risks. The undisputed health benefits of
+diagnostic X-ray and nuclear medicine diagnostics may be accompanied by a generally small risk
+(probability) of deleterious effects. This fact has to be taken into account while using ionising radiation
+sources in diagnosis. Since large amounts of radiation are required in radiation therapy, the risk of
+radiation-related adverse effects is measurably higher.
+The aim of managing radiation exposure is to minimise the putative risk without sacrificing,
+or unduly limiting, the obvious benefits in the prevention, diagnosis and also in effective cure of
+diseases (optimisation). It should be pointed out that when too little radiation is used for diagnosis or
+therapy there is an increase in risk although these risks are not due to adverse radiation effects per se.
+Too low an amount of radiation in diagnosis will result in either an image that does not have enough
+information to make a diagnosis and in radiation therapy, not delivering enough radiation will result in
+increased mortality because the cancer being treated will not be cured.
+Experience has provided ample evidence that reasonable selection of conditions, under
+which ionising radiation is being used in medicine, can lead to health benefits substantially
+outweighing the estimated possible deleterious effects
+
+How do we quantify the amount of radiation ?
+2
+
+The frequency or intensity of biological effects is dependant upon the total energy of
+radiation absorbed (in joules) per unit mass (in kg) of a sensitive tissues or organs. This quantity is
+called absorbed dose and is expressed in gray (Gy). Some X or gamma rays will pass through the
+body without any interaction, and they will produce no biological effect. On the other hand, the
+radiation which is absorbed, may produce effects. Absorbed doses of radiation can be measured
+and/or calculated and they form basis for evaluation of the probability of radiation-induced effects.
+In evaluating biological effects of radiation after partial exposure of the body further factors
+such as the varying sensitivity of different tissues and absorbed doses to different organs have to be
+taken into consideration. To compare risks of partial and whole body irradiation at doses experienced
+in diagnostic radiology and nuclear medicine a quantity called effective dose is used. It is expressed in
+sievert (Sv). Effective dose is not applicable to radiation therapy, where very large absorbed doses
+affect individual tissues or organs.
+
+What do we know about the nature (mechanism) of radiation-induced biological effects ?
+Cells can be killed by radiation During cellular division chromosomal aberrations due to
+radiation may result in loss of part of the chromosomal DNA which results in cell death. The probability
+of chromosomal aberrations is proportional to dose and those cells free of critical damage to DNA
+retain their dividing potential.
+Surviving cells may carry changes in the DNA at a molecular level (mutations). Elementary,
+primary damage to DNA results from chemical damage by free radicals, originating from radiolysis of
+water. DNA damage also can result from the direct interaction of ionising particles with the DNA
+double helix (rarely).
+Important changes in DNA occur in the form of breaks in continuity of the DNA chains
+although other forms of damage also arise. These breaks may affect one strand of the helix (single
+strand breaks, SSB) or both strands in the same location (double strand breaks, DSB). SSB occur very
+frequently in the DNA without irradiation, and are easily and effectively repaired by specific enzyme
+systems. In contrast, many induced DSB are more complicated and less easily repaired. As a result, a
+significant proportion of the damage is repaired incorrectly (mis-repair). These mis-repaired breaks can
+lead to chromosomal aberrations and gene mutations. Some of the genes mutated in such a way form
+the first step (initiation) of the very long and complicated process of carcinogenesis, requiring also
+several subsequent mutations (most likely not induced by radiation) in the affected cells. Similar
+mutation mechanisms, when affecting germinative cells, may lead to hereditary mutations expressed
+in descendants of the irradiated persons. Of course, the essential point in considering these possible
+sequelae of irradiation is the frequency (or probability of occurrence) of undesired effects in persons
+irradiated with a given dose, or in their descendants.
+How are effects of radiation classified?
+There are two basic categories of the biological effects that may be observed in irradiated
+persons. These are 1) due largely to cell killing (deterministic) and 2 mutations which may result in
+cancer and hereditary effects (stochastic or probabilistic ). Effects due to cell killing (such as skin
+necrosis) have a practical threshold dose below which the effect is not evident but in general when the
+effect is present its severity increases with the radiation dose. The threshold dose is not an absolute
+number and vary somewhat by individual. Effects due to mutations (such as cancer) have a
+probability of occurrence that increases with dose, it is currently judged that there is not a threshold
+below which the effect will not occur and finally the severity of the effects is independent of the dose.
+Thus a cancer caused by a small amount of radiation can be just as malignant as one caused by a
+high dose.
+Deterministic effects. These effects are observed after large absorbed doses of radiation
+and are mainly a consequence of radiation induced cellular death. They occur only if a large proportion
+of cells in an irradiated tissue have been killed by radiation, and the loss cannot be compensated by
+increased cellular proliferation. The ensuing tissue loss is further complicated by inflammatory
+3
+
+processes and, if the damage is sufficiently extensive, also by secondary phenomena at the systemic
+level (e.g. fever, dehydration, bacteraemia etc.). In addition, eventual effects of healing processes, e.g.
+fibrosis, may contribute to additional damage and loss of function of a tissue or an organ. Clinical
+examples of such effects are: necrotic changes in skin, necrosis and fibrotic changes in internal
+organs, acute radiation sickness after whole body irradiation, cataract, and sterility (table 1).
+Doses required to produce deterministic changes are in most cases large (usually in excess
+of 1-2 Gy). Some of those occur in a small proportion of patients as side effects of radiotherapy. They
+can also be found after complex interventional investigations (such as vascular stenting) when long
+fluoroscopy times have been used.
+The relationship between the frequency of a given deterministic effect and the absorbed
+dose has a general form presented in fig. 1. It can be seen that the essential feature of this doseresponse relationship is the presence of a threshold dose. Below this dose no effect may be
+diagnosed but with increasing dose the intensity of the induced damage increases markedly, in some
+situations, dramatically. An example of the deterministic damage to the skin is presented in fig. 2.
+Malformations induced by radiation in the conceptus in the period of organogenesis (3-8
+week of pregnancy), are also due to cell killing and are classified as deterministic effects. The same
+applies to malformations of the forebrain - leading to mental retardation - induced by the exposure
+between 8 and 15 weeks (and to some extent up to 25 week) after conception. The threshold doses
+are however, substantially lower than those found for deterministic effects after irradiation in
+extrauterine life: thus, 100-200 mGy form a threshold-range for malformations induced between the 3d
+and 8th week, and ~ 200 mGy for the aforementioned brain damage (8-25 week).
+Stochastic effects. As mentioned above, irradiated and surviving cells may become modified
+by induced mutations (somatic, hereditary). These modifications may lead to two clinically significant
+effects: malignant neoplasms (cancer) and hereditary mutations.
+Cancer: Ionising radiation is a carcinogen although a relatively weak one. Careful follow-up
+of over 80,000 atom bomb survivors in Hiroshima and Nagasaki over the last 50 years indicates that
+there have been 12,000 cancer cases of which less than 700 excess deaths were due to radiation.
+Expressed another way, only about 6% of the cancer occurring in these survivors is radiation-related
+These observations allow estimation of the probability with which a given dose may lead to
+diagnosis (incidence) and death (mortality) from various cancers. Among the latter there are several
+forms of leukaemia and solid tumours of different organs, mostly carcinomas of the lung, thyroid,
+breast, skin and gastrointestinal tract. Radiation-induced cancers do not appear immediately after
+radiation exposure but require time to become clinically apparent (latent period). Examples of
+minimum latent periods are non-CLL leukemia 2 years, about 5 years for thyroid and bone cancer and
+10 years for most other cancers. Mean latent periods are 7 years for non-CLL leukemia and more than
+20 years for most other cancers. It is important to note that some tumours do not appear to be
+radiation-induced or only weakly so. These include carcinomas of the prostate, cervix, uterus,
+lymphomas and chronic lymphatic leukaemia.
+Hereditary effects: The risk of hereditary effects of ionising radiation has been estimated on
+basis of experiments on various animal species, because there are no demonstrated effects in
+humans (the likely values of probability per unit dose are given later).
+From careful analysis of the experimental studies and epidemiological surveys it may be
+concluded that dose-response relationships for these two categories of stochastic effects have a
+distinctly different form from those characterising deterministic sequelae. A general dose-response
+relationship for cancer is presented in fig. 3. The principal features of the relationship may be
+summarised as follows:
+a.
+The induction of cancer by X or gamma rays yields increasing frequency of
+the effect with increasing dose up to a maximum above which the curve flattens off, with
+possible decline at still higher doses.
+b.
+At the lower end of the curve, below ~ 100-200 mGy, any potential effect
+cannot be measured easily because statistical errors of the observations due to the
+large amount of spontaneous cancer and the impact of confounding factors. This should
+4
+
+not be interpreted as the presence of a dose threshold. It is assumed that at the low
+doses (< 0.2 Gy), probability of the effect (frequency) increases most likely
+proportionally with the dose.
+c. There is always a spontaneous frequency of the effect (mutations, cancer) in nonirradiated populations (F0 in Fig 2), which cannot be differentiated qualitatively from that
+induced by radiation. In fact, mutations or cancers induced by irradiation have the same
+morphological, biochemical, and clinical etc. characteristics as the cases occurring in nonirradiated individuals
+What is magnitude of the risk for cancer and hereditary effects ?
+Analysis of the epidemiological data of irradiated populations has allowed derivation of the
+approximate risk of radiation-induced cancer. The lifetime value for the average person is roughly
+a 5% increase in fatal cancer after a whole body dose of 1 Sv (which is much higher than would
+found in most medical procedures). A statistically significant increase in cancer has not been
+detected in populations exposed to doses of less than 0.05 Sv.
+It appears that the risk in fetal life, in children and adolescents exceeds somewhat
+this average level (by a factor of 2 or 3) and in persons above the age of 60 it should be lower roughly
+by a factor of ~ 5 (due to limited life expectancy and therefore less time available for manifestation of a
+cancer, which is a late appearing effect of the exposure).
+The higher dose diagnostic medical procedures (such a CT scan of the abdomen or pelvis)
+yield an effective dose of about 10 mSv. If there were a large population in which every person had 1
+such scan, the theoretical lifetime risk of radiation induced fatal cancer would be about 1 in 2,000
+(0.05%). This can be compared to the normal spontaneous risk of fatal cancer which is about 1 in 4
+(25%).
+Individual risk may vary from theoretical calculations. The cumulative radiation dose from
+medical procedures is very small in many individuals, however in some patients the cumulative doses
+exceed 50 mSv and the cancer risk should be carefully considered. Many relatively high dose
+diagnostic procedures (such as CT) should be clearly justified and when this is done, benefit will far
+outweigh risk. Unjustified procedures at any dose level should be avoided. In radiotherapy there is a
+risk of second cancers but the risk is small compared to the imperative to treat the current malignancy.
+1.
+
+Hereditary effects as a consequence of radiation exposure have not been observed in
+humans. No hereditary effects have been found in studies of the offspring and grandchildren of the
+atomic bomb survivors. However, as based on animal models and knowledge of human genetics, the
+risk of hereditary deleterious effects have been estimated to not be greater than 10% of the radiation
+induced carcinogenic risk.
+
+Is ionizing radiation from medical sources the only one to which people are exposed?
+No. All living organisms on this planet, including humans, are exposed to radiation from
+natural sources. An average yearly effective dose from this so-called natural background, amounts to
+about 2.5 mSv. This exposure varies substantially geographically (from 1.5 to several tens of mSv in
+limited geographical areas). Artificial sources - except medicine - add very minute doses to population
+at large.
+What are typical doses from medical diagnostic procedures ?
+Various diagnostic radiology and nuclear medicine procedures cover a wide dose range based upon
+the procedure. Doses can be expressed either as absorbed dose to a single tissue or as effective
+dose to the entire body which facilitates comparison of doses to other radiation sources (such as
+natural background radiation. Typical values of effective dose for some procedures are presented in
+Table 2. The doses are a function of a number of factors such as tissue composition, density and
+thickness of the body. For example, it takes less radiation to penetrate the air in the lungs for a chest
+radiograph than to penetrate the tissues of the abdomen.
+5
+
+One should also be aware that even for a given procedure there may be a wide variation in
+the dose given for the same procedure on a specific individual when performed at different facilities.
+This variation may be up to a factor of ten and is often due to differences in the technical factors for the
+procedure such as film/screen speed, film processing, and voltage. IN addition there often are even
+wider variations in and among facilities for a given type of procedure due to less than satisfactory
+conduct of the procedure in some facilities.
+
+Can radiation doses in diagnosis be managed without affecting the diagnostic benefit ?
+Yes. There are several ways to reduce the risks to very, very low levels while obtaining very
+beneficial health effects of radiological procedures, far exceeding the health impact of a possible
+detriment. In this context it should be mentioned also that high ratio of benefit vs. radiological risk
+depends to large extent on a good methodology of procedures and high quality of their performance.
+Therefore quality assurance and quality control in diagnostic radiology and nuclear medicine play also
+a fundamental role in the provision of appropriate, sound radiological protection of the patient.
+There are several ways that will minimise the risk without sacrificing the valuable information
+that can be obtained for patients' benefit. Among the possible measures it is necessary to justify the
+examination before referring a patient to the radiologist or nuclear medicine physician.
+Repetition should be avoided of investigations made recently at another clinic or hospital.
+Results of the investigations should be recorded in sufficient detail in patients' documentation, and
+carried over to another health-care unit. This rule could result in avoidance of a significant fraction of
+unnecessary examinations.
+Failure to provide adequate clinical information at referral may result in a wrong procedure
+or technique being chosen by radiologist or nuclear medicine specialist. The result may be a useless
+test, with the investigation contributing only to patients' exposure.
+An investigation may be seen as a useful one if its outcome - positive or negative influences management of the patient. Another factor, which potentially adds to usefulness of the
+investigation, is strengthening confidence in the diagnosis.
+To fulfill these criteria, indications for specific investigation both in the general clinical
+situation, and in a given individual patient, must be made by the referring physician on basis of
+medical knowledge. Difficulties may arise in the referral procedure mainly due to the dynamic
+development of the field of medical imaging. Technical progress in medical radiology and nuclear
+medicine has been enormous over the last 30 years; in addition two new modalities have entered the
+field: ultrasound and magnetic resonance imaging. It is not surprising therefore, that following the
+technical developments may be difficult both to a general practitioner and even specialists in many
+fields of medicine. There are, however, several published guidelines (see suggested readings), which
+may help in making an appropriate referral, using well-founded criteria, based on clinical experience
+and epidemiology.
+The most important circumstances that should be taken into account to avoid inappropriate
+referrals can be broadly categorised as follows: possibility of obtaining similar information without
+using ionising radiation, i.e. by means of ultrasound (US) or magnetic resonance imaging (MRI). Their
+use is indicated where these modalities are available, and when the cost (this applies mostly to MRI),
+waiting times and organisational difficulties are not prohibitive. The guidelines mentioned above
+provide also information when these modalities are preferable as a starting and sometimes the only
+investigation to be performed.
+Are there situations when diagnostic radiological investigations should be avoided ?
+Yes. There are well-established views - not always respected - which indicate that in some
+circumstances radiography or fluoroscopy does not contribute anything to patients' management. This
+applies to situations when a disease could not have progressed or resolved since the previous
+6
+
+investigation, or the data obtained could not influence patients' treatment.
+Most common examples of unjustified examinations include: routine chest radiography at
+admission to a hospital or before surgery in absence of symptoms indicating cardiac or pulmonary
+involvement (or insufficiency); skull radiography in asymptomatic subjects of accidents; lower sacroth
+lumbal radiography in stable degenerative condition of the spine in the 5 or later decade of life, but
+there are of course many others.
+Screening of asymptomatic patients for presence of a disease may be done only if national
+health authorities made a decision that high incidence in a given age bracket, high efficacy of early
+disease detection, low exposure of screened individuals, and easily available and effective treatment
+may result in high benefit vs. risk ratio. Positive examples include fluoroscopy or radiography for
+detection of tuberculosis in societies or groups with high prevalence of the disease, mammography for
+early detection of breast cancer in women after 50 y of age, or screening for gastric carcinoma by
+specialised contrast fluoroscopy in countries with high incidence of this disease. All factors involved in
+screening must be periodically reviewed and reassessed. If positive criteria cease to be satisfied the
+screening should be discontinued.
+Irradiation for legal reasons and for purposes of insurance should be carefully limited or
+excluded. Generally irradiation of individuals for legal reasons is without medical benefit. One of
+common examples is that insurance companies may require various X-ray investigations to satisfy the
+expectation that a person to be insured is in good health. In numerous cases such demands,
+particularly in asymptomatic individuals, should be treated with caution and often appear unjustified
+when they are medically not in the direct interest of the person concerned.
+
+Are there special diagnostic procedures that should have special justification ?
+While all medical uses of radiation should be justified, it stands to reason that the higher the
+dose and risk of a procedure, the more the medical practitioner should consider whether there is a
+greater benefit to be obtained. There are radiological procedures that deliver doses at the upper end of
+the scale, presented in table 2.
+Among these special position is occupied by computed tomography (CT), and particularly its
+most advanced variants like spiral or multi slice CT. Usefulness and efficacy of this great technical
+achievement is beyond doubt in particular clinical situations, however the ease of obtaining results by
+this mode and temptation to monitor frequently the course of a disease or perform screening should be
+tempered by the fact that repeated examinations may deliver an effective dose of the order of 100
+mSv, a dose for which there is direct epidemiological evidence of carcinogenicity.
+Do children and pregnant women require special consideration in diagnostic procedures ?
+Yes. Both the fetus and children are thought to be more radiosensitive than adults.
+Diagnostic radiology and diagnostic nuclear medicine procedures (even in combination) are extremely
+unlikely to result in doses that cause malformations or a decrease in intellectual function. The main
+issue following in-utero or childhood exposure at typical diagnostic levels (<50 mGy) is cancer
+induction.
+Before a diagnostic procedure is performed it should be determined whether a patient is, or
+may be, pregnant, whether the fetus is in the primary radiation area and whether the procedure is
+relatively high dose (e.g. barium enema or pelvic CT scan). Medically indicated diagnostic studies
+remote from the fetus (e.g. radiographs of the chest or extremities, ventilation/perfusion lung scan) can
+be safely done at any time of pregnancy if the equipment is in proper working order. Commonly the
+risk of not making the diagnosis is greater than the radiation risk.
+If an examination is typically at the high end of the diagnostic dose range and the fetus is in
+or near the radiation beam or source, care should be taken to minimize the dose to the fetus while still
+making the diagnosis. This can be done by tailoring the examination and examining each radiograph
+as it is taken until the diagnosis is achieved and then terminating the procedure. In nuclear medicine
+many radiopharmaceuticals are excreted by the urinary tract/ In these cases maternal hydration and
+7
+
+encouraging voiding will reduce bladder residence time of the radiopharmaceutical and therefore will
+reduce fetal dose.
+For children, dose reduction in achieved by using technical factors specific for children and
+not using routine adult factors. In diagnostic radiology care should be taken to minimize the radiation
+beam to only the area of interest. Because children are small, in nuclear medicine the use of
+administered activity lower than that used for an adult will still result in acceptable images and reduced
+dose to the child.
+
+What can be done to reduce radiation risk during the performance of a diagnostic procedure ?
+The most powerful tool for minimising the risk is appropriate performance of the test and
+optimisation of radiological protection of the patient. These are the responsibility of the radiologist or
+nuclear medicine physician and medical physicist
+The basic principle of patients' protection in radiological X-ray investigations and nuclear
+medicine diagnostics is that necessary diagnostic information of clinically satisfactory quality should be
+obtained at the expense of a dose as low as reasonably achievable, taking into account social and
+financial factors.
+Evidence obtained in numerous countries indicates that the range of entrance doses (i.e.
+doses measured at surface of the body at the site where X-ray beam is entering the body) for a given
+type of radiographic examination is very wide. Sometimes the lowest and highest doses, measured in
+individual radiological installations, vary by a factor of ~ 100. As most measured doses tend to group
+at the lower end of the distribution (fig. 4 Need to add figure and legend of dose distribution for a
+specific examination) it is clear that the largest doses, above, for instance, 70-80 percentile of the
+distribution, cannot be reasonably justified. By establishing the so called diagnostic reference levels for
+each of principal investigations at such a percentile, one can identify the places (institutions, X-ray
+machines) in need of corrective actions, which will easily and substantially reduce the average dose to
+patients on a country-wide scale
+This goal may be reached by co-operation of radiologists with medical physicists and
+auditing persons or teams. There are numerous technical factors, which when systematically applied,
+reduce exposure significantly. The effort to optimise protection requires good organisation as well as
+permanent willingness and vigilance to keep the doses as low as reasonably achievable. It may be
+easily shown that the risk, even if it is quite small, can still be reduced several - fold compared with the
+situation prevailing in previous decades.
+Among the procedures that should be avoided are: 1) fluoroscopy and photofluorography
+for screening for tuberculosis in children and adolescents (only normal radiographs should be made
+instead at this age). 2) Fluoroscopy without electronic image intensification. In most developed
+countries such procedure - which gives quite high doses to the patient - is now legally forbidden.
+It should be emphasised, that radiological interventional procedures lead to higher doses to
+patients than normal diagnostic investigations. However, indications for such procedures in most
+cases result from a high risk from conventional surgery. Appropriate modern equipment and training of
+personnel allow the patients' exposure to be limited to an acceptable level, securing a very high
+benefit/risk ratio.
+1/
+
+In nuclear medicine the magnitude of dose to the patient results principally from the activity
+of the administered radiopharmaceutical. The range of activity of the latter, administered for a given
+purpose, varies among different departments by a small factor - usually a factor of three spans the
+highest and the lowest values. In several countries there are established respective reference or
+recommended levels and exceeding those should be usually avoided in examination of an individual of
+standard size. There are also accepted rules (formulae) for changing the activity as a function of body
+mass and for reducing the activity given to children relative to that administered to adults. Typical
+effective doses to patients in diagnostic nuclear medicine are in a similar range as those observed in
+X-ray diagnostics (Table 2). Good procedures and adherence to the principles of quality assurance
+and quality control secure a high benefit: risk ratio for the properly justified examinations. During
+8
+
+pregnancy, investigations using radiopharmaceutical should be treated in a similar way as normal
+radiographic procedures. Accordingly, they should be performed only if no alternative diagnostic
+methods are available and if the investigations cannot be delayed until after delivery. To avoid serious
+131
+damage to the foetal thyroid any procedure employing free
+I ions - even in small activities - is
+contraindicated starting with ~ 10-12 weeks of the pregnancy (when foetal thyroid becomes
+functional).
+Lactating women may be investigated with radiopharmaceuticals. There are some
+radiopharmaceuticals that are relatively long lived and which are excreted in breast milk (such as
+iodine-131). After administration of such radiopharmaceuticals, breast-feeding must be discontinued to
+avoid transfer to the child. There are, however other radionuclides that are short lived (such as most
+technetium-99m compounds) that may not require discontinuation of breast-feeding or only for a few
+hours or a day.
+------------------------------------------------------------------------------------1/
+- Activity - number of nuclear disintegration per second (dps) in a given sample. Used as a measure
+of quantity of radioactive substances, here radiopharmaceuticals administered to patients. The unit is
+the becquerel which is 1 dps. A megabequerel (MBq) is 1 million dps.
+The optimisation of patients' protection is based on a principle that the dose to the irradiated
+target (tumour) must be as high as it is necessary for effective treatment while protecting the healthy
+tissues to the maximum extent possible.
+…………………………………………………………………………………………………………
+
+What can be done to reduce radiation risk during conduct of radiation
+therapy ?
+
+Radiotherapy based on proper indications is frequently a successful way of prolonging the
+life of a patient or of reducing suffering when only palliation is possible, thus improving the patient’s
+quality of life. To achieve this success requires the highest standards of performance (accuracy of
+delivered dose), both when planning irradiation for an individual patient and in actual delivery of the
+dose
+The decision to undertake a radiotherapy course is optimally made through a
+multidisciplinary team including surgeons, medical and radiation oncologists. This discussion should
+confirm the justification of the procedure, absence of more beneficial alternative treatments and
+commonly the optimal way of combining different techniques (radiotherapy, surgery and
+chemotherapy). When such a multidisiplinary approach is not possible, the radiation oncologist making
+the decision alone should keep in mind the alternative treatments or combine treatment strategies.
+Actually, while the generic justification of radiotherapy cannot be questioned in the vast
+majority of cases. Increasing efforts are being made, in some cases, to decrease the delivered dose
+and to reduce the irradiated volumes. This is particularly true for some specific types of cancers, such
+as Hodgkin;s disease and for cancers of children, where the almost constant association with
+chemotherapy may allow the radiation oncologist to reduce dose and irradiated volume and a
+subsequent reduction in adverse side effects.
+In a large number of cases, decreasing the dose to the target volume is not possible since it
+would unacceptably decrease the cure rate. In these cases present technological developments aim at
+optimising the patients protection, keeping the absorbed tumor dose as high as is necessary for
+effective treatment while protecting nearby healthy tissues. Conformal therapy has helped greatly in
+this regard.
+It should be remembered that successful eradiaction of a malignant tumor by radiation
+therapy requires high-absorbed doses and there is a delayed (and usually low) risk of late
+complication. The above mention techniques are used to provide the best benefit/risk ratio.
+Can pregnant women receive radiotherapy ?
+A malignant tumour in a pregnant woman may require radiotherapy in attempt to save life of
+the patient. If a tumour is located in a distant part of the body, the therapy - with individually tailored
+9
+
+protection of the abdomen (screening) - may proceed. If the beam needs to be closer to the conceptus
+but still not irradiating the latter directly, special precautions need to be taken and an expert in
+dosimetry should make calculations of the dose to the fetus before the decision of starting the therapy
+is made. A dose to the conceptus (3-8 weeks post conception) from direct irradiation by the primary
+beam will reach values exceeding substantially thresholds for malformations of various organs, or of
+the brain (8 to 25 weeks) with resulting mental retardation in post-uterine life. It may also lead to
+d
+stunting of foetal growth, even if the treatment took place in 3r trimester of pregnancy.
+It should be also remembered that irradiation of the fetus in all trimesters of the pregnancy
+carries an increased risk of cancer in the newborn in the first or second decade of life and at
+therapeutic doses - or their significant fraction - this risk can be substantial. Therefore, in view of all
+mentioned factors termination of pregnancy may be considered. The decision should be based on
+careful estimation of the entailed risk to the fetus, which in turn requires calculation of the dose to
+conceptus by a qualified expert. The decision itself should be made by the women to be treated in
+consultation with their physician, partner and counsellor. Particularly difficult problems arise when
+radiotherapy is performed in a woman with early, undiagnosed pregnancy. The result is sometimes a
+massive irradiation of the conceptus in a period when malformations are easily induced (at or after 3
+weeks post conception). To avoid such unintentional irradiation it seems necessary to perform
+pregnancy tests to diagnose, or exclude the pregnancy before undertaking radiotherapy.
+131
+
+Therapy of hyperthyroidism with
+I in a pregnant woman is strictly contraindicated due to
+possibility of external irradiation of the foetus but mostly due to radioactive iodide crossing the placenta
+into the foetal circulation with subsequent uptake by its thyroid. The gland may well be destroyed by
+131
+beta radiation from the nuclide
+taken up ( I). Therefore, other methods of treatment should be
+employed, if possible, until delivery.
+When thyroid cancer with metastases is diagnosed in a pregnant woman, treatment with
+if it cannot be delayed after delivery, is not compatible with continuation of the pregnancy.
+
+131
+
+I,
+
+Can patients treatment with radiation endanger other people ?
+Medical radiation can be delivered to the patient from a radiation source outside the patient
+(e.g. from an x-ray machine for diagnosis or linear accelerator for radiotherapy). Regardless of how
+much dose the patient received, they do not become radioactive or emit radiation. As a result they
+present absolutely no radiation hazard to family or others.
+The other way that medical radiation is given is by placing radioactive materials in the
+patient. In these cases the patient will emit radiation. For diagnostic nuclear medicine studies (such as
+a bone or thyroid scan) the amount of radioactivity injected is small and such patents present no
+hazard to their family or to the public. Such patients are discharged immediately after the procedure.
+Patients may undergo radiation therapy by having radioactivity injected or radioactive
+sources implanted in the tumor. Such patients may or may not present a hazard to others based upon
+the penetration capability of the radiation emitted by the radionuclide. Some are very poorly
+penetrating (such as iodine-125 prostate implants. Such patents are discharged. Others who receive
+iridium-192 or cesium implants must remain in the hospital until the sources are removed.. The
+radiation in penetrating enough that visitors will be restricted from visiting the patient
+131
+
+Patients treated with high activity of
+I for cancer of the thyroid, in some cases for
+hyperthyroidism, or patients with permanent implants of radioactive sources (special category of
+brachytherapy), once released home from a clinic or hospital may present some - however slight - risk
+to their family members it they do not observe specific rules of behaviour in such situations. These
+patients must be informed orally to avoid close bodily contact with children and of other necessary
+precautions by specialists responsible for conduct of their therapy.
+
+10
+
+Table 1.
+Deterministic effects after whole-body and localised irradiation by X and gamma rays; approximate
+absorbed threshold doses for single (short-term) and fractionated or low dose-rate (long-term)
+exposures [5,6].
+Threshold absorbd dose Gy
+Organ/tissue
+
+Effect
+
+Short-term exposure
+(single doses)
+
+Long-term exposure
+(Yearly - repeated for
+many years)
+
+Testicles
+
+Temporal sterility
+permanent sterility
+
+0.15
+3.5 - 6.0
+
+0.4
+2.0
+
+Ovaries
+
+Sterility
+
+2.5 - 6.0
+
+> 0.2
+
+Ocular lens
+
+Detectable opacities
+Visual impairment
+(cataract)
+
+0.5 - 2.0
+
+> 0.1
+
+5.0
+
+> 0.15
+
+Bone marrow
+
+Haemopoiesis
+impairment
+
+0.5
+
+> 0.4
+
+Skin
+
+1.Erythema (dry
+desquamation).
+2. Moist
+desquamation.
+3. Epidermal and
+deep skin necrosis
+4. Skin atrophy with
+complications
+and telangiectasia
+
+2
+
+-
+
+18
+
+-
+
+25
+
+-
+
+10-12
+
+1.0
+
+Whole body
+
+Acute radiation
+sickness (mild)
+
+1.0
+
+11
+
+Table 2a.
+Typical effective doses from diagnostic medical exposures in the 1990s (U.K.).
+Diagnostic procedure
+
+Typical effective dose (mSv)
+
+X-ray examinations:
+Limbs and joints
+(except hip)
+Chest (single PA film)
+Skull
+Thoracic spine
+Lumbar spine
+Hip
+Pelvis
+Abdomen
+IVU
+Barium swallow
+Barium meal
+Barium follow thrugh
+Barium enema
+CT head
+CT chest
+CT abdomen or pelvis
+---------------------------------Radionuclide studies:
+Lung ventilation (Xe-133)
+Lung perfusion (Tc-99m)
+Kidney (Tc-99m)
+Thyroid (Tc-99m)
+Bone (Tc-99m)
+Cardiac gated study
+(Tc-99m)
+PET head (F-18 FDG)
+……………………………..
+Annual natural background
+
+<
+
+0.01
+0.02
+0.07
+0.7
+1.3
+0.3
+0.7
+1.0
+2.5
+1.5
+3
+3
+7
+2.3
+8
+10
+----------------------0.3
+1
+1
+1
+4
+6
+5
+…………….
+about 2.5
+
+Data from the National Radiation Protection Board in the U.K.
+
+12
+
+Table 2b. - alternative versions (from NRPB, modified).
+
+Broad levels of risk for common x-ray examinations and isotope scans
+X-ray examination (or
+nuclear medicine isotope
+scan)
+Chest
+Teeth
+Arms and legs
+Hands and feet
+Skull
+Head
+Neck
+Breast (mammography)
+Hip
+Spine
+Abdomen
+Pelvis
+CT scan of head
+(Lung isotope scan)
+(Kidney isotope scan)
+
+Effective doses
+(mSv) clustering
+around a value of:
+
+Equivalent period of
+natural background
+radiation
+
+0.01
+
+A few days
+
+0.1
+
+A few weeks
+
+1.0
+
+A few months
+to
+a year
+
+Lifetime additional risk
+of cancer per
+examination*
+Negligible risk
+
+Minimal risk
+1 in 1 000 000
+to
+1 in 100 000
+Very low risk
+1 in 100 000
+to
+1 in 10 000
+
+Low risk
+Kidneys and bladder
+1 in 10 000
+(IVU)
+to
+Stomach - barium meal
+10
+A few years
+1 in 1 000
+Colon - barium enema
+CT scan of abdomen
+(Bone isotope scan)
+* These risk levels represent very small additions to the 1 in 3 chance we all have of getting
+cancer.
+
+13
+
+Figure 1. A general dose-response relationship for radiation induced deterministic (cell killing) effects.
+DTh - threshold dose
+
+14
+
+Figure 2. A general dose-response relationship for radiation-induced stochastic effects (here cancer
+incidence after gamma-ray irradiation).
+Shaded area - control incidence (F0) in a nonirradiated population.
+Broken line - extrapolation to the lowest doses for which there is no direct evidence.
+
+15
+
+Suggested information sources
+Web sites for:
+ICRP
+NRPB
+American College or Radiology
+European Community
+ASTRO
+ESTRO
+US National Cancer Institute
+BMJ Evidence Based Medicine
+
+16
+
+ABSTRACT
+The didactic text is devoted to patients’ protection against unnecessary exposure to ionizing
+radiation.
+There are obvious benefits to health from medical uses of radiation, i.e. in X ray diagnostics,
+in interventional radiology, nuclear medicine and radiotherapy. However, there are well-established
+risks from improperly applied high doses of radiation (therapy, interventional radiology) and possible
+deleterious effects from small radiation doses used in diagnostics. Appropriate use of large doses
+prevents serious harm from therapy but low doses carry a risk that cannot be entirely eliminated.
+Diagnostic use of radiation requires therefore such methodology that would secure high diagnostic
+gains while limiting the possible harm to the lowest possible level.
+For assessment of the risk a quantitative measure of exposure is a necessary prerequisite.
+Dosimetric quantities are therefore explained and defined (absorbed dose, effective dose). Basic facts
+are presented on mechanisms of action of ionizing radiations on the living matter. Undesired
+deleterious effects in man are categorised into 1/ sequelae resulting from massive cell killing (the so
+called deterministic effects), requiring a high dose for their manifestation (exceeding the threshold
+dose), and 2/ into those effects originating from mutational changes in the cellular DNA, that may
+eventually lead to development of radiation induced cancer and of hereditary changes, transmitted to
+descendants of exposed individuals after irradiation of their gonads.
+Data on the magnitude of threshold doses for cell killing effects are presented. On basis of
+experimental clinical and epidemiological evidence assessment is also given of the probability with
+which cancers and hereditary mutations may be induced by doses of various magnitude, most likely
+without a threshold dose (below which no effect would obtain).
+The text provides ample information on opportunities to minimize the doses, and therefore
+the risk from diagnostic uses of radiation. This objective may be reached by avoiding unnecessary
+(unjustified) examinations, and optimizing the applied procedures both from the standpoint of
+diagnostic quality and of reduction of the excessive doses to patients.
+Optimization of patient protection in radiotherapy must depend on maintaining sufficiently high doses
+to irradiated tumours, securing high cure rate, while protecting the healthy tissues to the largest extent
+possible. Problems related to special protection of human embryo and foetus in course of diagnostic
+and therapeutic uses of radiation are presented and respective practical solutions are recommended.
+
+17
+
+
