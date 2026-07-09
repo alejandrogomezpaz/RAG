@@ -1,2 +1,3 @@
 path/to/largefile
 *.gguf
+.DS_Store
