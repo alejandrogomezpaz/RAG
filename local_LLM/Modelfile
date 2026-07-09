@@ -1,0 +1,6 @@
+FROM ./rad-ai.Q4_K_M.gguf
+
+# Sampling defaults — tweak as you like
+PARAMETER temperature 0.7
+PARAMETER top_p 0.9
+PARAMETER num_ctx 4096
