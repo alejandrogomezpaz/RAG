@@ -11,7 +11,6 @@ In the rag_code.iphynb file:
 
 
 
-
 RAG Pipeline:
 Instantiation:
 1) Full-body validated base corpus 
@@ -28,3 +27,16 @@ Query Pipeline:
 3.2) re-ranking top-k
 3.3) similarity lower bound threshold refusal trigger
 4) Build context + system prompt for LLM input
+
+
+
+Improvements from prototype RAG:
+corpus contains more, relevant documents
+pipeline allows for user to add local docs seamlessly
+
+prefiltering is performed
+query embedding type is flexible determined by RAD-AI embedded hardware
+reranking step allows for better ranking due to full-attention block
+introduced refusal lower bound
+
+benchmarks support the new RAG is a higher accuracy, higher quality, lower token and latency version.
