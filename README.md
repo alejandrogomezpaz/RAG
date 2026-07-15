@@ -7,19 +7,20 @@ In the rag_code.iphynb file:
 2) write the name of the folder of local PDF-only documents you would like to add
  to the FILE_PATH variable in the second code chunk
 3) run the second code chunk
-4) Thats it!
+Thats it!
 
 
 
 RAG Pipeline:
-Instantiation:
+Vectorized Database Instantiation (done once):
 1) Full-body validated base corpus 
 2) User can choose to add local, specific pdf files
 2) all pdfs are cleaned and added with metadata stored for citations
 3) Chunking is performed such that semantic structrue is maintained without duplicate data
 4) Chunks are embedded into vectorized database with metadata stored
 
-Query Pipeline:
+
+Query Pipeline (done every query):
 1.1) pre-filtering deterministic lookup bypass
 1.2) misc pre-filtering
 2) Query embedding (choose: Exact query, Hypothetical Document Embedding, Multi-Query Union)
@@ -35,8 +36,8 @@ corpus contains more, relevant documents
 pipeline allows for user to add local docs seamlessly
 
 prefiltering is performed
-query embedding type is flexible determined by RAD-AI embedded hardware
-reranking step allows for better ranking due to full-attention block
+query embedding type is flexible determined by RAD-AI embedded hardware constraints
+reranking step allows for better ranking due to full-attention block rather than prue emedding cosine similarity
 introduced refusal lower bound
 
 benchmarks support the new RAG is a higher accuracy, higher quality, lower token and latency version.
