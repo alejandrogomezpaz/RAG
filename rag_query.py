@@ -8,7 +8,7 @@ Query Pipeline:
 3.3) similarity lower bound threshold refusal trigger
 4) Build context + system prompt for LLM input
 '''
-import sys
+import sys, math
 sys.path.append(r"/Users/alejandrogomez-paz/Desktop/RAG/local_LLM") #make this the emebedded LLM once on hardware
 from rad_ai import query
 
@@ -17,11 +17,11 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
 PERSIST_DIR = "./index"                                   # must match File 1
-embeddings  = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")  # must match File 1
+embeddings = HuggingFaceEmbeddings(
+    model_name="all-MiniLM-L6-v2",
+    encode_kwargs={"normalize_embeddings": True})
 
 vectorstore = Chroma(persist_directory=PERSIST_DIR, embedding_function=embeddings)
-retriever   = vectorstore.as_retriever(search_kwargs={"k": 5})
-
 
 def exact_query(q):
     '''returns query; here so i rememeber this basic method'''
@@ -72,7 +72,7 @@ def top_k_search(queries, vectorized_db, k1):
 
     return sorted(best.values(), key=lambda x: x[1], reverse=True)[:k1]
 
-REFUSAL_THRESHOLD = 0.0 
+REFUSAL_THRESHOLD = 0.2
 RERANKER = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")   # load once, module level
 
 def rerank_top_k(q, top_chunks, k1, k2):
@@ -101,8 +101,6 @@ def build_context(retrieved_chunks):
 
 def retrieve(q, strat, num, k1, k2):
 
-    #pre filter deterministic lookup + misc??
-
     embedded_query = query_embedding(q, strategy = str(strat), num = num)
     top_k_chunks = top_k_search(embedded_query, vectorstore, k1)
     retrieved_chunks = rerank_top_k(q, top_k_chunks, k1, k2)
@@ -110,7 +108,7 @@ def retrieve(q, strat, num, k1, k2):
     if not retrieved_chunks:
         return "You may only answer: 'I cannot answer this question'"
 
-    top_score = retrieved_chunks[0][1]
+    top_score = 1 / (1 + math.exp(-retrieved_chunks[0][1]))  
     if top_score < REFUSAL_THRESHOLD:
         refusal_prompt = "You may only answer: 'I cannot answer this question'"
         return refusal_prompt

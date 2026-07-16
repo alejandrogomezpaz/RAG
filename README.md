@@ -36,10 +36,12 @@ Query Pipeline (done every query):
 Improvements from prototype RAG:
 corpus contains more, relevant documents
 pipeline allows for user to add local docs seamlessly
+embedding respects semantic strcutre during chunking
 
-prefiltering is performed
+
 query embedding type is flexible determined by RAD-AI embedded hardware constraints
 reranking step allows for better ranking due to full-attention block rather than prue emedding cosine similarity
 introduced refusal lower bound
+
 
 benchmarks support the new RAG is a higher accuracy, higher quality, lower token and latency version.

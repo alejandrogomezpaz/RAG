@@ -20,7 +20,9 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from pypdf import PdfReader
 
-EMBEDDINGS = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")   # load once, reu
+EMBEDDINGS = HuggingFaceEmbeddings(
+    model_name="all-MiniLM-L6-v2",
+    encode_kwargs={"normalize_embeddings": True})   # unit vectors
 
 def pdf_cleaner(file_path):
     """Take a folder path, return {filename: full_cleaned_text} for every PDF in it."""
@@ -73,9 +75,9 @@ def semantic_chunker(documents):
 def chunk_embedder(all_chunks, persist_dir="./index"):
     embeddings = EMBEDDINGS
     vectorstore = Chroma.from_documents(
-        all_chunks,
-        embeddings,
-        persist_directory=persist_dir)   # written to disk so you don't re-embed
+        all_chunks, EMBEDDINGS,
+        persist_directory=persist_dir,
+        collection_metadata={"hnsw:space": "cosine"})   # cosine, not default L2
     return vectorstore
 
 if __name__ == "__main__":
