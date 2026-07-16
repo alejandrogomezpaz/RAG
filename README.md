@@ -1,4 +1,4 @@
-# State-of-the-art Retrieval Augmented Generation (RAG) for the RAD-AI Embedded product.
+# Production-Ready Retrieval Augmented Generation (RAG) for the RAD-AI Embedded product.
 
 
 Instructions:
