@@ -1,0 +1,14 @@
+metric,better,explanation,Old RAG,New (exact),New (MQU),New (HyDE)
+Context Precision,higher,fraction of retrieved chunks from a golden document,0.5256 +/- 0.0000,0.5705 +/- 0.0000,0.6154 +/- 0.0000,0.5769 +/- 0.0000
+Context Precision @g,higher,"correct / min(k, #golden documents)",0.7826 +/- 0.0000,0.8478 +/- 0.0000,0.8587 +/- 0.0000,0.8478 +/- 0.0000
+Context Recall (Hit@k),higher,fraction of golden documents retrieved,0.7826 +/- 0.0000,0.8478 +/- 0.0000,0.8587 +/- 0.0000,0.8478 +/- 0.0000
+NDCG@k,higher,rank-aware retrieval quality (golden nearer top = better),0.7047 +/- 0.0000,0.8209 +/- 0.0000,0.8213 +/- 0.0000,0.7911 +/- 0.0000
+Citation F1,higher,harmonic mean of citation precision & recall,0.3652 +/- 0.0000,0.0000 +/- 0.0000,0.0000 +/- 0.0000,0.0000 +/- 0.0000
+Answer Correctness,higher,required answer-key phrases present in the answer,0.5399 +/- 0.0000,0.3750 +/- 0.0000,0.4203 +/- 0.0000,0.2808 +/- 0.0000
+Refusal Accuracy,higher,fraction of correct refuse/answer decisions,0.7885 +/- 0.0000,0.8654 +/- 0.0000,0.7885 +/- 0.0000,0.7692 +/- 0.0000
+Hallucination Rate,lower,answers with an unsupported claim (Groq judge),0.0000 +/- 0.0000,0.0000 +/- 0.0000,0.0000 +/- 0.0000,0.0000 +/- 0.0000
+Latency (s/query),lower,mean retrieval + generation time per query,13.9678 +/- 0.0000,14.4399 +/- 0.0000,41.0180 +/- 0.0000,40.4720 +/- 0.0000
+Context Tokens,lower,mean est. context tokens sent to the LLM,923.0962 +/- 0.0000,612.7500 +/- 0.0000,615.8077 +/- 0.0000,665.6731 +/- 0.0000
+QUALITY (composite),higher,weighted AC/CIF1/REC/COPG/RR/(1-HR),0.6489 +/- 0.0000,0.5543 +/- 0.0000,0.5590 +/- 0.0000,0.5116 +/- 0.0000
+
+arm status,,,ok,ok,ok,ok

@@ -1,0 +1,12 @@
+setting,value
+generated,2026-07-15T22:51:38
+eval set,benchmark_golden_pairs_3 (46 answerable + 6 refusal)
+metric algorithm,"benchmark_v0 (via benchmark_v3.py), unchanged"
+citation matching,DOCUMENT level (source title) — common unit across chunkers
+arms,"Old RAG, New (exact), New (MQU), New (HyDE)"
+k (final chunks),3
+k1 (new-RAG candidate pool),20
+MQU variants,3
+N_RUNS,1
+mode,full (retrieval + generation + judge)
+judge model (HR),llama-3.3-70b-versatile
