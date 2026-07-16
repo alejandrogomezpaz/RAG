@@ -11,18 +11,16 @@ Instantiation Pipeline:
 '''
 
 SUPPLEMENTARY_FILE_PATH = str('copy the name of your folder directory here; make sure all fiels are PDFs :) enjoy! ')
+BASE_FILE_PATH = "./corpus_v3/corpus" #don't touch
 
 
-pip install langchain-huggingface sentence-transformers
-pip install chromadb
-
-
-import os, re, sys
+import os, re
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from pypdf import PdfReader
 
+EMBEDDINGS = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")   # load once, reu
 
 def pdf_cleaner(file_path):
     """Take a folder path, return {filename: full_cleaned_text} for every PDF in it."""
@@ -31,13 +29,17 @@ def pdf_cleaner(file_path):
     for name in os.listdir(file_path):
         if not name.lower().endswith(".pdf"):
             continue
-        reader = PdfReader(os.path.join(file_path, name))
-        text = ""
-        for page in reader.pages:
-            raw = page.extract_text() or ""
-            raw = re.sub(r"-\n", "", raw)
-            text += re.sub(r"\s+", " ", raw).strip() + " "
-        docs[name] = text.strip()
+        try:
+            reader = PdfReader(os.path.join(file_path, name))
+            text = ""
+            for page in reader.pages:
+                raw = re.sub(r"-\n", "", page.extract_text() or "")
+                text += re.sub(r"\s+", " ", raw).strip() + " "
+            if not text.strip():
+                print(f"warning (no extractable text, maybe scanned): {name}")
+            docs[name] = text.strip()
+        except Exception as e:
+            print(f"skip (unreadable): {name} — {e}")
     return docs
     
 def add_documents(old_documents, new_documents):
@@ -52,7 +54,7 @@ def add_documents(old_documents, new_documents):
 
 def semantic_chunker(documents):
     """documents: {filename: text} -> list of chunk Documents."""
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embeddings = EMBEDDINGS
     text_splitter = SemanticChunker(
         embeddings,
         breakpoint_threshold_type="percentile",
@@ -69,19 +71,16 @@ def semantic_chunker(documents):
     return all_chunks
 
 def chunk_embedder(all_chunks, persist_dir="./index"):
-    embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+    embeddings = EMBEDDINGS
     vectorstore = Chroma.from_documents(
         all_chunks,
         embeddings,
         persist_directory=persist_dir)   # written to disk so you don't re-embed
     return vectorstore
 
-
-
-BASE_FILE_PATH = "./corpus_v3"
-
-base_corpus = pdf_cleaner(BASE_FILE_PATH)
-#list_of_documents = add_documents(base_corpus, pdf_cleaner(SUPPLEMENTARY_FILE_PATH)) delete # at beginning of this line if usign suppplementary folder
-#chunks = semantic_chunker(list_of_documents) #delete # at beginning of this line if usign suppplementary folder
-chunks = semantic_chunker(base_corpus) #delete this line if supplenmentary folder exists
-vectorized_database = chunk_embedder(chunks)
+if __name__ == "__main__":
+    base_corpus = pdf_cleaner(BASE_FILE_PATH)
+    # documents = add_documents(base_corpus, pdf_cleaner(SUPPLEMENTARY_FILE_PATH))
+    # chunks = semantic_chunker(documents)
+    chunks = semantic_chunker(base_corpus)      # base-only
+    vectorized_database = chunk_embedder(chunks)

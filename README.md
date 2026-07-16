@@ -2,12 +2,14 @@
 
 
 Instructions:
-In the rag_code.iphynb file:
-1) run the first code chunk to install libraries
-2) write the name of the folder of local PDF-only documents you would like to add
- to the FILE_PATH variable in the second code chunk
-3) run the second code chunk
-Thats it!
+
+1) in your terminal install these dependencies by running 
+"pip install langchain-huggingface langchain-community langchain-experimental sentence-transformers chromadb pypdf"
+
+2) change the SUPPLEMENTARY_FILE_PATH variable to your folder in 'rag_database_initializer'
+3) run the rag_database_initializer.py file ONCE, and ONLINE
+    this will take a while, but this is a one-time set up; otherwise this runs offline
+4) That's it! Enjoy!
 
 
 
