@@ -9,6 +9,5 @@ Refusal Accuracy,higher,fraction of correct refuse/answer decisions,0.7885 +/- 0
 Hallucination Rate,lower,answers with an unsupported claim (Groq judge),0.0000 +/- 0.0000,0.0000 +/- 0.0000,0.0000 +/- 0.0000,0.0000 +/- 0.0000
 Latency (s/query),lower,mean retrieval + generation time per query,13.9678 +/- 0.0000,14.4399 +/- 0.0000,41.0180 +/- 0.0000,40.4720 +/- 0.0000
 Context Tokens,lower,mean est. context tokens sent to the LLM,923.0962 +/- 0.0000,612.7500 +/- 0.0000,615.8077 +/- 0.0000,665.6731 +/- 0.0000
-QUALITY (composite),higher,weighted AC/CIF1/REC/COPG/RR/(1-HR),0.6489 +/- 0.0000,0.5543 +/- 0.0000,0.5590 +/- 0.0000,0.5116 +/- 0.0000
 
 arm status,,,ok,ok,ok,ok
